@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="6484667504938477337" name="camera_error_title">"Errur da la camera"</string>
+    <string msgid="6346560772074764302" name="camera_label">"Camera"</string>
+    <string msgid="460313486231965141" name="pref_camcorder_settings_category">"Parameters da la camera da video"</string>
+    <string msgid="7288383434237457709" name="pref_camera_flashmode_entry_auto">"Automatic"</string>
+    <string msgid="867242186958805761" name="pref_camera_flashmode_entry_off">"Deactivà"</string>
+    <string msgid="5330043918845197616" name="pref_camera_flashmode_entry_on">"Activà"</string>
+    <string msgid="2287362477238791017" name="pref_camera_flashmode_title">"Modus da chametg (flash)"</string>
+    <string msgid="7374820710300362457" name="pref_camera_focusmode_entry_auto">"Automatic"</string>
+    <string msgid="3413922419264967552" name="pref_camera_focusmode_entry_infinity">"Infinit"</string>
+    <string msgid="4424489110551866161" name="pref_camera_focusmode_entry_macro">"Macro"</string>
+    <string msgid="2877248921829329127" name="pref_camera_focusmode_title">"Modus da focussar"</string>
+    <string msgid="5142699735103692485" name="pref_camera_id_entry_back">"Enavos"</string>
+    <string msgid="5668958706828733669" name="pref_camera_id_entry_front">"Frunt"</string>
+    <string msgid="4333724936665883006" name="pref_camera_picturesize_title">"Grondezza dal maletg"</string>
+    <string msgid="371208839215448917" name="pref_camera_recordlocation_title">"Memorisar la posiziun"</string>
+    <string msgid="616748587566110484" name="pref_camera_scenemode_entry_action">"Acziun"</string>
+    <string msgid="7113995286836658648" name="pref_camera_scenemode_entry_auto">"Automatic"</string>
+    <string msgid="7606898503102476329" name="pref_camera_scenemode_entry_night">"Notg"</string>
+    <string msgid="181661154611507212" name="pref_camera_scenemode_entry_sunset">"Rendida dal sulegl"</string>
+    <string msgid="1420535844292504016" name="pref_camera_scenemode_title">"Modus da scena"</string>
+    <string msgid="2576236450859613120" name="pref_camera_settings_category">"Parameters da la camera"</string>
+    <string msgid="6580665476983469293" name="pref_camera_whitebalance_entry_auto">"Automatic"</string>
+    <string msgid="3531996716997959326" name="pref_camera_whitebalance_entry_cloudy">"Nivlus"</string>
+    <string msgid="2534757270149561027" name="pref_camera_whitebalance_entry_daylight">"Glisch dal di"</string>
+    <string msgid="2435332872847454032" name="pref_camera_whitebalance_entry_fluorescent">"Glisch da neon"</string>
+    <string msgid="8856667786449549938" name="pref_camera_whitebalance_entry_incandescent">"Pair electric"</string>
+    <string msgid="677420930596673340" name="pref_camera_whitebalance_title">"Equiliber da l\'alv"</string>
+    <string msgid="1229093066434614811" name="pref_exposure_title">"Exposiziun"</string>
+    <string msgid="8245379279801096922" name="pref_video_quality_title">"Qualitad dal video"</string>
+    <string msgid="2914969119574812666" name="preparing_sd" product="default">"Preparar la carta SD..."</string>
+    <string msgid="8188009385853399254" name="review_cancel">"INTERRUMPER"</string>
+    <string msgid="2899292505526427293" name="video_camera_label">"Camera da video"</string>
+    <string msgid="6179877322015552390" name="video_reach_size_limit">"Cuntanschì la grondezza maximala."</string>
+    <string msgid="8600187532323801552" name="wait">"Spetgar..."</string>
+</resources>

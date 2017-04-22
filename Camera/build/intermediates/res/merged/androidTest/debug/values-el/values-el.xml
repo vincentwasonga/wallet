@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="1584968646870054352" name="access_sd_fail" product="default">"Δεν ήταν δυνατή η πρόσβαση στην κάρτα SD."</string>
+    <string msgid="5234411571109877131" name="accessibility_back_to_first_level">"Κλείσιμο στοιχείων ελέγχου ρυθμίσεων"</string>
+    <string msgid="1156382046161392389" name="accessibility_black_and_white">"Μαύρο και άσπρο"</string>
+    <string msgid="8807945470215734566" name="accessibility_camera_picker">"Διακόπτης εμπρός και πίσω φωτογραφικής μηχανής"</string>
+    <string msgid="1411194318538035666" name="accessibility_decrement">"Μείωση %1$s"</string>
+    <string msgid="8447850530444401135" name="accessibility_increment">"Αύξηση %1$s"</string>
+    <string msgid="7140794046259897328" name="accessibility_menu_button">"Κουμπί μενού"</string>
+    <string msgid="3278002189966833100" name="accessibility_mode_picker">"Επιλογέας φωτογραφικής μηχανής, βίντεο ή πανοράματος"</string>
+    <string msgid="9070531914908644686" name="accessibility_review_cancel">"Ακύρωση αναθεώρησης"</string>
+    <string msgid="7793302834271343168" name="accessibility_review_ok">"Ολοκλήρωση αναθεώρησης"</string>
+    <string msgid="659300290054705484" name="accessibility_review_retake">"Έλεγχος νέας λήψης"</string>
+    <string msgid="8961275263537513017" name="accessibility_review_thumbnail">"Πιο πρόσφατη φωτογραφία"</string>
+    <string msgid="3855951632917627620" name="accessibility_second_level_indicators">"Περισσότερα στοιχεία ελέγχου ρυθμίσεων"</string>
+    <string msgid="2664037763232556307" name="accessibility_shutter_button">"Κουμπί κλείστρου"</string>
+    <string msgid="6995966685498958895" name="accessibility_switch">"Διακόπτης %1$s"</string>
+    <string msgid="5951340774212969461" name="accessibility_switch_to_camera">"Μετάβαση σε φωτογραφία"</string>
+    <string msgid="8116783308051524188" name="accessibility_switch_to_new_panorama">"Μετάβαση σε νέο πανόραμα"</string>
+    <string msgid="604756878371875836" name="accessibility_switch_to_panorama">"Μετάβαση σε πανόραμα"</string>
+    <string msgid="4991396355234561505" name="accessibility_switch_to_video">"Μετάβαση σε λειτουργία βίντεο"</string>
+    <string msgid="1339909363226825709" name="accessibility_zoom_control">"Έλεγχος εστίασης"</string>
+    <string msgid="1218288221200568947" name="apply_effect">"Εφαρμογή"</string>
+    <string msgid="4025244950820813059" name="aspect">"Διαστάσεις"</string>
+    <string msgid="1159104543795779123" name="aspect1to1_effect">"1:1"</string>
+    <string msgid="7078163990979248864" name="aspect3to4_effect">"3:4"</string>
+    <string msgid="7968067847241223578" name="aspect4to3_effect">"4:3"</string>
+    <string msgid="1410129351686165654" name="aspect4to6_effect">"4:6"</string>
+    <string msgid="5122395569059384741" name="aspect5to7_effect">"5:7"</string>
+    <string msgid="5780001758108328143" name="aspect7to5_effect">"7:5"</string>
+    <string msgid="7740468012919660728" name="aspect9to16_effect">"16:9"</string>
+    <string msgid="6263330561046574134" name="aspectNone_effect">"Κανένα"</string>
+    <string msgid="1663414996270538748" name="autofix">"Αυτ.επιδ."</string>
+    <string msgid="9184270738916564608" name="bg_replacement_message">"Αφήστε τη συσκευή σας κάτω"\n"Απομακρυνθείτε για λίγο από την εμβέλειά της."</string>
+    <string msgid="2067345080568684614" name="borders">"Σύνορα"</string>
+    <string msgid="8927492494576933793" name="bwfilter">"Φίλτρο ΑΜ"</string>
+    <string msgid="8923911090533439312" name="camera_disabled">"Η φωτογραφική μηχανή έχει απενεργοποιηθεί λόγω των πολιτικών ασφαλείας."</string>
+    <string msgid="6484667504938477337" name="camera_error_title">"Σφάλμα φωτογραφικής μηχανής"</string>
+    <string msgid="6346560772074764302" name="camera_label">"Φωτογ.μηχανή"</string>
+    <string msgid="955440687597185163" name="cannot_connect_camera">"Δεν είναι δυνατή η σύνδεση με τη φωτογραφική μηχανή."</string>
+    <string msgid="5023634941212959976" name="cannot_load_image">"Δεν είναι δυνατή η φόρτωση της εικόνας!"</string>
+    <string msgid="7231052688467970897" name="capital_off">"ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ"</string>
+    <string msgid="5491353494964003567" name="capital_on">"ΕΝΕΡΓΟΠΟΙΗΣΗ"</string>
+    <string msgid="5485339175014139481" name="clear_effects">"Διαγραφή εφέ"</string>
+    <string msgid="8140838959007796977" name="compare_original">"Σύγκριση"</string>
+    <string msgid="2310908487756769019" name="contrast">"Αντίθεση"</string>
+    <string msgid="7598378507763334041" name="crop">"Περικοπή"</string>
+    <string msgid="8794037869706891710" name="crop_tooltip">"Σύρετε τους δείκτες για την περικοπή της φωτογραφίας"</string>
+    <string msgid="4173724489001742342" name="crossprocess">"Cross Process"</string>
+    <string msgid="915010781090477550" name="curvesRGB">"Καμπύλες"</string>
+    <string msgid="9129211507395079371" name="curves_channel_blue">"Μπλε"</string>
+    <string msgid="3733003466905031016" name="curves_channel_green">"Πράσινο"</string>
+    <string msgid="4199710104162111357" name="curves_channel_red">"Κόκκινο"</string>
+    <string msgid="7909209509638333690" name="curves_channel_rgb">"RGB"</string>
+    <string msgid="6263301364153382152" name="dialog_ok">"OK"</string>
+    <string msgid="4957723267826476079" name="disable_video_snapshot_hint">"Το στιγμιότυπο οθόνης βίντεο απενεργοποιείται με ενεργά τα εφέ."</string>
+    <string msgid="2353274490633681946" name="discard_unsaved_photo">"Απόρριψη μη αποθηκευμένων αλλαγών;"</string>
+    <string msgid="50396326708699797" name="documentary">"Ντοκιμαντέρ"</string>
+    <string msgid="3112344807927554662" name="done">"Ολοκληρώθηκε"</string>
+    <string msgid="1686409894518940990" name="doodle">"Σκετσάκι"</string>
+    <string msgid="2902117272374362915" name="doodle_tooltip">"Σχεδιάστε στη φωτογραφία για να δημιουργήσετε ένα σκετσάκι"</string>
+    <string msgid="8145893940788467106" name="duotone">"Δύο τόνοι"</string>
+    <string msgid="959158844620991906" name="effect_backdropper_gallery">"Το βίντεό σας"</string>
+    <string msgid="7935661090723068402" name="effect_backdropper_space">"Στο διάστημα"</string>
+    <string msgid="45198943771777870" name="effect_backdropper_sunset">"Δύση ηλίου"</string>
+    <string msgid="6579360207378171022" name="effect_background">"ΦΟΝΤΟ"</string>
+    <string msgid="3945182409691408412" name="effect_goofy_face_big_eyes">"Μεγάλα μάτια"</string>
+    <string msgid="7528748779754643144" name="effect_goofy_face_big_mouth">"Μεγάλο στόμα"</string>
+    <string msgid="5180533098740577137" name="effect_goofy_face_big_nose">"Μεγάλη μύτη"</string>
+    <string msgid="1070355596290331271" name="effect_goofy_face_small_eyes">"Μικρά μάτια"</string>
+    <string msgid="3848209817806932565" name="effect_goofy_face_small_mouth">"Μικρό στόμα"</string>
+    <string msgid="1207235692524289171" name="effect_goofy_face_squeeze">"Πιέστε"</string>
+    <string msgid="3601545724573307541" name="effect_none">"Κανένα"</string>
+    <string msgid="8107732405347155777" name="effect_silly_faces">"ΑΣΤΕΙΑ ΠΡΟΣΩΠΑ"</string>
+    <string msgid="6526397045949374905" name="exposure">"Έκθεση"</string>
+    <string msgid="6205748523156172637" name="facelift">"Πρόσωπο με λάμψη"</string>
+    <string msgid="4412831806626044111" name="facetan">"Μαυρισμένο πρόσωπο"</string>
+    <string msgid="2644989991700022526" name="filllight">"Γέμισμα με φως"</string>
+    <string msgid="4219489910543059747" name="filtershow_redo">"Επανάληψη"</string>
+    <string msgid="6781743189243585101" name="filtershow_undo">"Αναίρεση"</string>
+    <string msgid="6037488646928998921" name="fisheye">"Fisheye"</string>
+    <string msgid="2357692401826287480" name="flip">"Αναστροφή"</string>
+    <string msgid="2700943256714731737" name="flip_tooltip">"Σύρετε τη φωτογραφία για να την αναστρέψετε"</string>
+    <string msgid="7487585304579789098" name="grain">"Κόκκος φιλμ"</string>
+    <string msgid="7641563843060945228" name="grayscale">"Ασπρόμ."</string>
+    <string msgid="2082672248771133871" name="hide_history_panel">"Απόκρυψη ιστορικού"</string>
+    <string msgid="1135313661068111161" name="hide_imagestate_panel">"Απόκρ.κατάστ.εικόνας"</string>
+    <string msgid="3902653944386623972" name="highlight">"Επισημάνσεις"</string>
+    <string msgid="455767361472692409" name="history">"Ιστορικό"</string>
+    <string msgid="6231252147971086030" name="hue">"Απόχρωση"</string>
+    <string msgid="3609930035023754855" name="imageState">"Κατάσταση τρέχουσας εικόνας"</string>
+    <string msgid="7890360277163832130" name="loading_failure">"Αδύνατη η φόρτωση της φωτογραφίας"</string>
+    <string msgid="1270032154357186736" name="lomoish">"Lomo"</string>
+    <string msgid="6428291655769260831" name="menu_settings">"Ρυθμίσεις"</string>
+    <string msgid="5482518108154883096" name="mirror">"Κατοπτρισμός"</string>
+    <string msgid="1985508917342811252" name="negative">"Αρνητικό"</string>
+    <string msgid="5137703033746873624" name="no_storage" product="default">"Εισαγάγετε κάρτα SD πριν χρησιμοποιήσετε τη φωτογραφική μηχανή."</string>
+    <string msgid="6633966646410296520" name="none">"Κανένα"</string>
+    <string msgid="2970291701448555126" name="not_selectable_in_scene_mode">"Δεν υπάρχει δυνατότητα επιλογής στη λειτουργία σκηνής."</string>
+    <string msgid="3524493791230430897" name="original">"Αρχική"</string>
+    <string msgid="8248825828264374507" name="pano_capture_indication">"Λήψη πανοράματος"</string>
+    <string msgid="2155692796549642116" name="pano_dialog_panorama_failed">"Δεν ήταν δυνατή η αποθήκευση του πανοράματος."</string>
+    <string msgid="4788441554128083543" name="pano_dialog_prepare_preview">"Προετοιμασία πανοραμικής εικ."</string>
+    <string msgid="5755531234434437697" name="pano_dialog_title">"Πανόραμα"</string>
+    <string msgid="7800325815031423516" name="pano_dialog_waiting_previous">"Αναμονή για προηγ. πανοραμική εικόνα"</string>
+    <string msgid="2887552964129301902" name="pano_review_rendering">"Απόδοση πανοράματος"</string>
+    <string msgid="2054886016665130188" name="pano_review_saving_indication_str">"Aποθήκευση..."</string>
+    <string msgid="2823839093291374709" name="pano_too_fast_prompt">"Πολύ γρήγορα"</string>
+    <string msgid="6163006724627682202" name="photo_saved">"Η επεξ. φωτογραφία αποθηκ. στον φάκελο <ns1:g id="FOLDER_NAME">%s</ns1:g>"</string>
+    <string msgid="2810641816416597464" name="photoeditor_artistic">"Καλλιτεχνικά εφέ"</string>
+    <string msgid="834210916165605468" name="photoeditor_color">"Εφέ χρωμάτων"</string>
+    <string msgid="560535856805042987" name="photoeditor_exposure">"Εφέ έκθεσης"</string>
+    <string msgid="6441595584425037477" name="photoeditor_fix">"Επιδιόρθωση"</string>
+    <string msgid="4738587346771969697" name="photoeditor_name">"Photo Studio"</string>
+    <string msgid="5999984591376273768" name="photoeditor_redo">"Επανάληψη"</string>
+    <string msgid="4831462549862253564" name="photoeditor_undo">"Αναίρεση"</string>
+    <string msgid="4139212359561383385" name="posterize">"Ποστεροποίηση"</string>
+    <string msgid="460313486231965141" name="pref_camcorder_settings_category">"Ρυθμίσεις βιντεοκάμερας"</string>
+    <string msgid="7288383434237457709" name="pref_camera_flashmode_entry_auto">"Αυτόματο"</string>
+    <string msgid="867242186958805761" name="pref_camera_flashmode_entry_off">"ΑΠΕΝΕΡΓΟΠΟΙΗΜΕΝΟ"</string>
+    <string msgid="5330043918845197616" name="pref_camera_flashmode_entry_on">"Ενεργοποιημένο"</string>
+    <string msgid="2287362477238791017" name="pref_camera_flashmode_title">"Λειτουργία Flash"</string>
+    <string msgid="7374820710300362457" name="pref_camera_focusmode_entry_auto">"Αυτόματο"</string>
+    <string msgid="3413922419264967552" name="pref_camera_focusmode_entry_infinity">"Άπειρο"</string>
+    <string msgid="4424489110551866161" name="pref_camera_focusmode_entry_macro">"Απόσταση"</string>
+    <string msgid="2877248921829329127" name="pref_camera_focusmode_title">"Λειτουργία εστίασης"</string>
+    <string msgid="5142699735103692485" name="pref_camera_id_entry_back">"Πίσω"</string>
+    <string msgid="5668958706828733669" name="pref_camera_id_entry_front">"Μπροστά"</string>
+    <string msgid="4040791582294635851" name="pref_camera_id_title">"Επιλογή φωτ. μηχανής"</string>
+    <string msgid="829109608140747258" name="pref_camera_picturesize_entry_1_3mp">"1.3M εικονοστ."</string>
+    <string msgid="1669725616780375066" name="pref_camera_picturesize_entry_1mp">"1M εικονοστ."</string>
+    <string msgid="1753709802245460393" name="pref_camera_picturesize_entry_2mp">"2M  εικονοστ."</string>
+    <string msgid="741415860337400696" name="pref_camera_picturesize_entry_3mp">"3M εικονοστ."</string>
+    <string msgid="2882928212030661159" name="pref_camera_picturesize_entry_5mp">"5 M εικονοστ."</string>
+    <string msgid="259953780932849079" name="pref_camera_picturesize_entry_8mp">"8M εικονοστ."</string>
+    <string msgid="8576186463069770133" name="pref_camera_picturesize_entry_qvga">"QVGA"</string>
+    <string msgid="806934254162981919" name="pref_camera_picturesize_entry_vga">"VGA"</string>
+    <string msgid="4333724936665883006" name="pref_camera_picturesize_title">"Μέγεθος εικόνας"</string>
+    <string msgid="371208839215448917" name="pref_camera_recordlocation_title">"Αποθήκευση τοποθεσίας"</string>
+    <string msgid="616748587566110484" name="pref_camera_scenemode_entry_action">"Ενέργεια"</string>
+    <string msgid="7113995286836658648" name="pref_camera_scenemode_entry_auto">"Αυτόματο"</string>
+    <string msgid="2923388802899511784" name="pref_camera_scenemode_entry_hdr">"HDR"</string>
+    <string msgid="7606898503102476329" name="pref_camera_scenemode_entry_night">"Νύχτα"</string>
+    <string msgid="907053529286788253" name="pref_camera_scenemode_entry_party">"Πάρτι"</string>
+    <string msgid="181661154611507212" name="pref_camera_scenemode_entry_sunset">"Ηλιοβασίλεμα"</string>
+    <string msgid="1420535844292504016" name="pref_camera_scenemode_title">"Λειτουργία σκηνής"</string>
+    <string msgid="2576236450859613120" name="pref_camera_settings_category">"Ρυθμίσεις φωτογραφικής μηχανής"</string>
+    <string msgid="6580665476983469293" name="pref_camera_whitebalance_entry_auto">"Αυτόματο"</string>
+    <string msgid="3531996716997959326" name="pref_camera_whitebalance_entry_cloudy">"Συννεφιά"</string>
+    <string msgid="2534757270149561027" name="pref_camera_whitebalance_entry_daylight">"Φως ημέρας"</string>
+    <string msgid="2435332872847454032" name="pref_camera_whitebalance_entry_fluorescent">"Λαμπτήρας φθορισμού"</string>
+    <string msgid="8856667786449549938" name="pref_camera_whitebalance_entry_incandescent">"Λαμπτήρας πυρακτώσεως"</string>
+    <string msgid="677420930596673340" name="pref_camera_whitebalance_title">"Ισορροπία λευκού"</string>
+    <string msgid="1229093066434614811" name="pref_exposure_title">"Έκθεση"</string>
+    <string msgid="8243182968457289488" name="pref_video_effect_title">"Εφέ"</string>
+    <string msgid="8664038216234805914" name="pref_video_quality_entry_high">"Υψηλή"</string>
+    <string msgid="7258507152393173784" name="pref_video_quality_entry_low">"Χαμηλή"</string>
+    <string msgid="8245379279801096922" name="pref_video_quality_title">"Ποιότητα βίντεο"</string>
+    <string msgid="1672458758823855874" name="pref_video_time_lapse_frame_interval_1000">"1 δευτερόλεπτο"</string>
+    <string msgid="3105568489694909852" name="pref_video_time_lapse_frame_interval_10000">"10 δευτερόλεπτα"</string>
+    <string msgid="2766886102170605302" name="pref_video_time_lapse_frame_interval_10800000">"3 ώρες"</string>
+    <string msgid="6055574367392821047" name="pref_video_time_lapse_frame_interval_12000">"12 δευτερόλεπτα"</string>
+    <string msgid="145301938098991278" name="pref_video_time_lapse_frame_interval_120000">"2 λεπτά"</string>
+    <string msgid="6286246349698492186" name="pref_video_time_lapse_frame_interval_1440000">"24 λεπτά"</string>
+    <string msgid="7497934659667867582" name="pref_video_time_lapse_frame_interval_14400000">"4 ώρες"</string>
+    <string msgid="3415071702490624802" name="pref_video_time_lapse_frame_interval_1500">"1,5 δευτερόλεπτο"</string>
+    <string msgid="2656164845371833761" name="pref_video_time_lapse_frame_interval_15000">"15 δευτερόλεπτα"</string>
+    <string msgid="793707078196731912" name="pref_video_time_lapse_frame_interval_150000">"2,5 λεπτά"</string>
+    <string msgid="1785467676466542095" name="pref_video_time_lapse_frame_interval_180000">"3 λεπτά"</string>
+    <string msgid="5042628461448570758" name="pref_video_time_lapse_frame_interval_1800000">"0,5 ώρα"</string>
+    <string msgid="8783643014853837140" name="pref_video_time_lapse_frame_interval_18000000">"5 ώρες"</string>
+    <string msgid="827813989647794389" name="pref_video_time_lapse_frame_interval_2000">"2 δευτερόλεπτα"</string>
+    <string msgid="5005078879234015432" name="pref_video_time_lapse_frame_interval_21600000">"6 ώρες"</string>
+    <string msgid="2192628967233421512" name="pref_video_time_lapse_frame_interval_24000">"24 δευτερόλεπτα"</string>
+    <string msgid="3734507766184666356" name="pref_video_time_lapse_frame_interval_240000">"4 λεπτά"</string>
+    <string msgid="5750464143606788153" name="pref_video_time_lapse_frame_interval_2500">"2,5 δευτερόλεπτα"</string>
+    <string msgid="2664846627499751396" name="pref_video_time_lapse_frame_interval_3000">"3 δευτερόλεπτα"</string>
+    <string msgid="5923393773260634461" name="pref_video_time_lapse_frame_interval_30000">"0,5 λεπτό"</string>
+    <string msgid="7442765761995328639" name="pref_video_time_lapse_frame_interval_300000">"5 λεπτά"</string>
+    <string msgid="6724596937972563920" name="pref_video_time_lapse_frame_interval_360000">"6 λεπτά"</string>
+    <string msgid="6366071632666482636" name="pref_video_time_lapse_frame_interval_3600000">"1 ώρα"</string>
+    <string msgid="69942198321578519" name="pref_video_time_lapse_frame_interval_36000000">"10 ώρες"</string>
+    <string msgid="7303255804306382651" name="pref_video_time_lapse_frame_interval_4000">"4 δευτερόλεπτα"</string>
+    <string msgid="285992046818504906" name="pref_video_time_lapse_frame_interval_43200000">"12 ώρες"</string>
+    <string msgid="2949719376111679816" name="pref_video_time_lapse_frame_interval_500">"0,5 δευτερόλεπτο"</string>
+    <string msgid="6800566761690741841" name="pref_video_time_lapse_frame_interval_5000">"5 δευτερόλεπτα"</string>
+    <string msgid="536117788694519019" name="pref_video_time_lapse_frame_interval_5400000">"1,5 ώρα"</string>
+    <string msgid="5740227373848829515" name="pref_video_time_lapse_frame_interval_54000000">"15 ώρες"</string>
+    <string msgid="8545447466540319539" name="pref_video_time_lapse_frame_interval_6000">"6 δευτερόλεπτα"</string>
+    <string msgid="4678581247918524850" name="pref_video_time_lapse_frame_interval_60000">"1 λεπτό"</string>
+    <string msgid="6563665954471001352" name="pref_video_time_lapse_frame_interval_600000">"10 λεπτά"</string>
+    <string msgid="8969801372893266408" name="pref_video_time_lapse_frame_interval_720000">"12 λεπτά"</string>
+    <string msgid="6846617415182608533" name="pref_video_time_lapse_frame_interval_7200000">"2 ώρες"</string>
+    <string msgid="9040201678470052298" name="pref_video_time_lapse_frame_interval_86400000">"24 ώρες"</string>
+    <string msgid="1187029705069674152" name="pref_video_time_lapse_frame_interval_90000">"1,5 λεπτό"</string>
+    <string msgid="5803172407245902896" name="pref_video_time_lapse_frame_interval_900000">"15 λεπτά"</string>
+    <string msgid="4242839574025261419" name="pref_video_time_lapse_frame_interval_9000000">"2,5 ώρες"</string>
+    <string msgid="3490489191038309496" name="pref_video_time_lapse_frame_interval_off">"Απενεργοποιημένη"</string>
+    <string msgid="6245716906744079302" name="pref_video_time_lapse_frame_interval_title">"Παρέλευση χρόνου"</string>
+    <string msgid="2914969119574812666" name="preparing_sd" product="default">"Προετοιμασία κάρτας SD…"</string>
+    <string msgid="4958448806369928239" name="redeye">"Κόκκινα μάτια"</string>
+    <string msgid="4183695928490874014" name="redeye_tooltip">"Πατήστε στα κόκκινα μάτια για διόρθωση"</string>
+    <string msgid="7541394381714894896" name="remember_location_no">"Όχι ευχαριστώ"</string>
+    <string msgid="724592331305808098" name="remember_location_prompt">"Προσθέστε ετικέτες στις φωτογραφίες και τα βίντεό σας με την τοποθεσία στην οποία έχουν τραβηχτεί."\n\n"Οι άλλες εφαρμογές μπορούν να αποκτήσουν πρόσβαση σε αυτές τις πληροφορίες μαζί με τις αποθηκευμένες σας εικόνες."</string>
+    <string msgid="9060472929006917810" name="remember_location_title">"Απομνημόνευση τοποθεσίας φωτογραφιών;"</string>
+    <string msgid="862884269285964180" name="remember_location_yes">"Ναι"</string>
+    <string msgid="9013181350779592937" name="reset">"Επαναφορά"</string>
+    <string msgid="7712605581024929564" name="reset_effect">"Επαναφορά"</string>
+    <string msgid="8188009385853399254" name="review_cancel">"ΑΚΥΡΩΣΗ"</string>
+    <string msgid="1156261588693116433" name="review_ok">"ΤΕΛΟΣ"</string>
+    <string msgid="6607597269792373083" name="rotate">"Περιστροφή"</string>
+    <string msgid="7008602969130734229" name="rotate_tooltip">"Σύρετε τη φωτογραφία για να την περιστρέψετε"</string>
+    <string msgid="8621322012271169931" name="saturation">"Κορεσμός"</string>
+    <string msgid="5516670392524294967" name="save">"ΑΠΟΘΗΚΕΥΣΗ"</string>
+    <string msgid="8229491575433743974" name="saving_failure">"Αδύνατη  η αποθήκευση της επεξ. φωτογρ."</string>
+    <string msgid="7978093531824705601" name="sepia">"Σέπια"</string>
+    <string msgid="2970567717633813771" name="set_time_interval">"Ορισμός χρονικού διαστήματος"</string>
+    <string msgid="6665849510484821483" name="set_time_interval_help">"Η λειτουργία παρέλευσης χρόνου έχει απενεργοποιηθεί. Ενεργοποιήστε την για να ορίσετε το χρονικό διάστημα."</string>
+    <string msgid="4480039384202951946" name="setting_off">"Απενεργοποιημ."</string>
+    <string msgid="8602246224465348901" name="setting_on">"Ενεργοποιημ."</string>
+    <string msgid="8235188588101973090" name="shadow">"Σκιές"</string>
+    <string msgid="3928572915300287152" name="shadow_recovery">"Σκιές"</string>
+    <string msgid="8449662378104403230" name="sharpen">"Όξυνση"</string>
+    <string msgid="6463103068318055412" name="sharpness">"Οξύτητα"</string>
+    <string msgid="7785810372502120090" name="show_history_panel">"Εμφάνιση ιστορικού"</string>
+    <string msgid="7132294085840948243" name="show_imagestate_panel">"Εμφ.κατάστ.εικόνας"</string>
+    <string msgid="1732882643101247179" name="spaceIsLow_content" product="default">"Ο διαθέσιμος χώρος στην κάρτα SD είναι ελάχιστος. Αλλάξτε τη ρύθμιση ποιότητας ή διαγράψτε κάποιες εικόνες ή άλλα αρχεία."</string>
+    <string msgid="5217801513491493491" name="straighten">"Ευθυγράμμιση"</string>
+    <string msgid="4846317027139212339" name="straighten_tooltip">"Σύρετε τη φωτογραφία για να την ευθυγραμμίσετε"</string>
+    <string msgid="8863427645591903760" name="tap_to_focus">"Πατήστε για εστίαση."</string>
+    <string msgid="1607987938521534517" name="temperature">"Θερμότ."</string>
+    <string msgid="1776453661704997476" name="time_lapse_hours">"ώρες"</string>
+    <string msgid="2486386210951700943" name="time_lapse_interval_set">"Τέλος"</string>
+    <string msgid="7738520349259013762" name="time_lapse_minutes">"λεπτά"</string>
+    <string msgid="2105521458391118041" name="time_lapse_seconds">"δευτερόλεπτα"</string>
+    <string msgid="4360632427760662691" name="time_lapse_title">"Εγγραφή παρέλευσης χρόνου"</string>
+    <string msgid="154435943863418434" name="tint">"Απόχρωση"</string>
+    <string msgid="2783694326474415761" name="tinyplanet">"Tiny Planet"</string>
+    <string msgid="2036539130684382763" name="title_activity_filter_show">"Επεξεργασία φωτογραφιών"</string>
+    <string msgid="3326744578577835915" name="vibrance">"Ζωντάνια χρώμ."</string>
+    <string msgid="2899292505526427293" name="video_camera_label">"Βιντεοκάμ."</string>
+    <string msgid="6179877322015552390" name="video_reach_size_limit">"Συμπληρώθηκε το όριο μεγέθους."</string>
+    <string msgid="18833576851372483" name="video_snapshot_hint">"Αγγίξτε για λήψη φωτογραφίας κατά την εγγραφή."</string>
+    <string msgid="7648125924662648282" name="vignette">"Βινιετάρισμα"</string>
+    <string msgid="8600187532323801552" name="wait">"Περιμένετε..."</string>
+    <string msgid="6346581563387083613" name="wbalance">"Αυτόματο χρώμα"</string>
+    <string msgid="5402582493291792293" name="yes">"Ναι"</string>
+</resources>

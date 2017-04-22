@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/androidTest/debug/menu/crop.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/bundles/debug/res/menu/crop.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/androidTest/debug/menu/settings.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/bundles/debug/res/menu/settings.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/androidTest/debug/menu/albumset.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/bundles/debug/res/menu/albumset.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/androidTest/debug/menu/movie.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/bundles/debug/res/menu/movie.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/androidTest/debug/menu/groupby.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/bundles/debug/res/menu/groupby.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/androidTest/debug/menu/pickup.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/bundles/debug/res/menu/pickup.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/androidTest/debug/menu/photo.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/bundles/debug/res/menu/photo.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/androidTest/debug/menu/operation.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/bundles/debug/res/menu/operation.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/androidTest/debug/menu/album.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/bundles/debug/res/menu/album.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/androidTest/debug/menu/filterby.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/bundles/debug/res/menu/filterby.xml"
+    }
+]

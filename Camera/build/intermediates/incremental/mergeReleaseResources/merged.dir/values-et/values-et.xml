@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="1584968646870054352" name="access_sd_fail" product="default">"Juurdepääs SD-kaardile ebaõnnestus."</string>
+    <string msgid="5234411571109877131" name="accessibility_back_to_first_level">"Sule seadete juhtnupud"</string>
+    <string msgid="1156382046161392389" name="accessibility_black_and_white">"Mustvalge"</string>
+    <string msgid="8807945470215734566" name="accessibility_camera_picker">"Eesmise ja tagumise kaamera lüliti"</string>
+    <string msgid="1411194318538035666" name="accessibility_decrement">"Vähenda %1$s"</string>
+    <string msgid="8447850530444401135" name="accessibility_increment">"Suurenda %1$s"</string>
+    <string msgid="7140794046259897328" name="accessibility_menu_button">"Menüü nupp"</string>
+    <string msgid="3278002189966833100" name="accessibility_mode_picker">"Kaamera, video või panoraami valija"</string>
+    <string msgid="9070531914908644686" name="accessibility_review_cancel">"Arvustuse tühistamine"</string>
+    <string msgid="7793302834271343168" name="accessibility_review_ok">"Arvustus valmis"</string>
+    <string msgid="659300290054705484" name="accessibility_review_retake">"Uue võtte ülevaade"</string>
+    <string msgid="8961275263537513017" name="accessibility_review_thumbnail">"Viimane foto"</string>
+    <string msgid="3855951632917627620" name="accessibility_second_level_indicators">"Rohkem seadete juhtnuppe"</string>
+    <string msgid="2664037763232556307" name="accessibility_shutter_button">"Päästiku nupp"</string>
+    <string msgid="6995966685498958895" name="accessibility_switch">"Lüliti %1$s"</string>
+    <string msgid="5951340774212969461" name="accessibility_switch_to_camera">"Aktiveeri fotorežiim"</string>
+    <string msgid="8116783308051524188" name="accessibility_switch_to_new_panorama">"Lülitu uuele panoraamile"</string>
+    <string msgid="604756878371875836" name="accessibility_switch_to_panorama">"Aktiveeri panoraamrežiim"</string>
+    <string msgid="4991396355234561505" name="accessibility_switch_to_video">"Aktiveeri videorežiim"</string>
+    <string msgid="1339909363226825709" name="accessibility_zoom_control">"Suumi juhtimine"</string>
+    <string msgid="1218288221200568947" name="apply_effect">"Rakenda"</string>
+    <string msgid="4025244950820813059" name="aspect">"Kuvasuhe"</string>
+    <string msgid="1159104543795779123" name="aspect1to1_effect">"1:1"</string>
+    <string msgid="7078163990979248864" name="aspect3to4_effect">"3:4"</string>
+    <string msgid="7968067847241223578" name="aspect4to3_effect">"4:3"</string>
+    <string msgid="1410129351686165654" name="aspect4to6_effect">"4:6"</string>
+    <string msgid="5122395569059384741" name="aspect5to7_effect">"5:7"</string>
+    <string msgid="5780001758108328143" name="aspect7to5_effect">"7:5"</string>
+    <string msgid="7740468012919660728" name="aspect9to16_effect">"16:9"</string>
+    <string msgid="6263330561046574134" name="aspectNone_effect">"Mitte ühtegi"</string>
+    <string msgid="1663414996270538748" name="autofix">"Automaatparandus"</string>
+    <string msgid="9184270738916564608" name="bg_replacement_message">"Pange seade käest ära."\n"Astuge korraks vaateväljast eemale."</string>
+    <string msgid="2067345080568684614" name="borders">"Äärised"</string>
+    <string msgid="8927492494576933793" name="bwfilter">"MV filter"</string>
+    <string msgid="8923911090533439312" name="camera_disabled">"Kaamera on keelatud turvaeeskirjade tõttu."</string>
+    <string msgid="6484667504938477337" name="camera_error_title">"Kaamera viga"</string>
+    <string msgid="6346560772074764302" name="camera_label">"Kaamera"</string>
+    <string msgid="955440687597185163" name="cannot_connect_camera">"Ei saa kaameraga ühendada."</string>
+    <string msgid="5023634941212959976" name="cannot_load_image">"Pilti ei saa laadida!"</string>
+    <string msgid="7231052688467970897" name="capital_off">"VÄLJAS"</string>
+    <string msgid="5491353494964003567" name="capital_on">"SEES"</string>
+    <string msgid="5485339175014139481" name="clear_effects">"Nulli efektid"</string>
+    <string msgid="8140838959007796977" name="compare_original">"Võrdle"</string>
+    <string msgid="2310908487756769019" name="contrast">"Kontrast"</string>
+    <string msgid="7598378507763334041" name="crop">"Kärpimine"</string>
+    <string msgid="8794037869706891710" name="crop_tooltip">"Foto kärpimiseks lohistage markereid"</string>
+    <string msgid="4173724489001742342" name="crossprocess">"Risttöötlus"</string>
+    <string msgid="915010781090477550" name="curvesRGB">"Kõverad"</string>
+    <string msgid="9129211507395079371" name="curves_channel_blue">"Sinine"</string>
+    <string msgid="3733003466905031016" name="curves_channel_green">"Roheline"</string>
+    <string msgid="4199710104162111357" name="curves_channel_red">"Punane"</string>
+    <string msgid="7909209509638333690" name="curves_channel_rgb">"RGB"</string>
+    <string msgid="6263301364153382152" name="dialog_ok">"OK"</string>
+    <string msgid="4957723267826476079" name="disable_video_snapshot_hint">"Kui eriefektid on sisse lülitatud, on video hetktõmmis keelatud."</string>
+    <string msgid="2353274490633681946" name="discard_unsaved_photo">"Kas loobute salvestamata muudatustest?"</string>
+    <string msgid="50396326708699797" name="documentary">"Dokumentaalfilm"</string>
+    <string msgid="3112344807927554662" name="done">"Valmis"</string>
+    <string msgid="1686409894518940990" name="doodle">"Kritseldamine"</string>
+    <string msgid="2902117272374362915" name="doodle_tooltip">"Kritseldamiseks joonistage fotol"</string>
+    <string msgid="8145893940788467106" name="duotone">"Kahetooniline"</string>
+    <string msgid="959158844620991906" name="effect_backdropper_gallery">"Teie video"</string>
+    <string msgid="7935661090723068402" name="effect_backdropper_space">"Kosmoses"</string>
+    <string msgid="45198943771777870" name="effect_backdropper_sunset">"Päikeseloojang"</string>
+    <string msgid="6579360207378171022" name="effect_background">"TAUST"</string>
+    <string msgid="3945182409691408412" name="effect_goofy_face_big_eyes">"Suured silmad"</string>
+    <string msgid="7528748779754643144" name="effect_goofy_face_big_mouth">"Suur suu"</string>
+    <string msgid="5180533098740577137" name="effect_goofy_face_big_nose">"Suur nina"</string>
+    <string msgid="1070355596290331271" name="effect_goofy_face_small_eyes">"Väiksed silmad"</string>
+    <string msgid="3848209817806932565" name="effect_goofy_face_small_mouth">"Väike suu"</string>
+    <string msgid="1207235692524289171" name="effect_goofy_face_squeeze">"Pitsita"</string>
+    <string msgid="3601545724573307541" name="effect_none">"Mitte ühtegi"</string>
+    <string msgid="8107732405347155777" name="effect_silly_faces">"NALJAKAD NÄOD"</string>
+    <string msgid="6526397045949374905" name="exposure">"Säriaeg"</string>
+    <string msgid="6205748523156172637" name="facelift">"Näonaha ühtlustamine"</string>
+    <string msgid="4412831806626044111" name="facetan">"Näojume"</string>
+    <string msgid="2644989991700022526" name="filllight">"Valguse täitmine"</string>
+    <string msgid="4219489910543059747" name="filtershow_redo">"Tee uuesti"</string>
+    <string msgid="6781743189243585101" name="filtershow_undo">"Võta tagasi"</string>
+    <string msgid="6037488646928998921" name="fisheye">"Kalasilm"</string>
+    <string msgid="2357692401826287480" name="flip">"Ümberpööramine"</string>
+    <string msgid="2700943256714731737" name="flip_tooltip">"Ümberpööramiseks lohistage fotot"</string>
+    <string msgid="7487585304579789098" name="grain">"Filmi teralisus"</string>
+    <string msgid="7641563843060945228" name="grayscale">"Mustvalge"</string>
+    <string msgid="2082672248771133871" name="hide_history_panel">"Peida ajalugu"</string>
+    <string msgid="1135313661068111161" name="hide_imagestate_panel">"Peida pildi olek"</string>
+    <string msgid="3902653944386623972" name="highlight">"Esiletõstud"</string>
+    <string msgid="455767361472692409" name="history">"Ajalugu"</string>
+    <string msgid="6231252147971086030" name="hue">"Värvitoon"</string>
+    <string msgid="3609930035023754855" name="imageState">"Pildi praegune olek"</string>
+    <string msgid="7890360277163832130" name="loading_failure">"Fotot ei õnnestunud laadida"</string>
+    <string msgid="1270032154357186736" name="lomoish">"Lomo"</string>
+    <string msgid="6428291655769260831" name="menu_settings">"Seaded"</string>
+    <string msgid="5482518108154883096" name="mirror">"Peegelpilt"</string>
+    <string msgid="1985508917342811252" name="negative">"Negatiivne"</string>
+    <string msgid="5137703033746873624" name="no_storage" product="default">"Enne kaamera kasutamist sisestage SD-kaart."</string>
+    <string msgid="6633966646410296520" name="none">"Mitte ühtegi"</string>
+    <string msgid="2970291701448555126" name="not_selectable_in_scene_mode">"Seda ei saa stseenirežiimis valida."</string>
+    <string msgid="3524493791230430897" name="original">"Originaal"</string>
+    <string msgid="8248825828264374507" name="pano_capture_indication">"Panoraami jäädvustamine"</string>
+    <string msgid="2155692796549642116" name="pano_dialog_panorama_failed">"Panoraami ei saanud salvestada."</string>
+    <string msgid="4788441554128083543" name="pano_dialog_prepare_preview">"Panoraami ettevalmistus"</string>
+    <string msgid="5755531234434437697" name="pano_dialog_title">"Panoraam"</string>
+    <string msgid="7800325815031423516" name="pano_dialog_waiting_previous">"Eelmise panoraami ootel"</string>
+    <string msgid="2887552964129301902" name="pano_review_rendering">"Panoraami renderdamine"</string>
+    <string msgid="2054886016665130188" name="pano_review_saving_indication_str">"Salvestus ..."</string>
+    <string msgid="2823839093291374709" name="pano_too_fast_prompt">"Liiga kiire"</string>
+    <string msgid="6163006724627682202" name="photo_saved">"Muudetud foto salvestati kausta <ns1:g id="FOLDER_NAME">%s</ns1:g>"</string>
+    <string msgid="2810641816416597464" name="photoeditor_artistic">"Kunstilised efektid"</string>
+    <string msgid="834210916165605468" name="photoeditor_color">"Värviefektid"</string>
+    <string msgid="560535856805042987" name="photoeditor_exposure">"Säritusefektid"</string>
+    <string msgid="6441595584425037477" name="photoeditor_fix">"Paranda"</string>
+    <string msgid="4738587346771969697" name="photoeditor_name">"Fotostuudio"</string>
+    <string msgid="5999984591376273768" name="photoeditor_redo">"Tee uuesti"</string>
+    <string msgid="4831462549862253564" name="photoeditor_undo">"Võta tagasi"</string>
+    <string msgid="4139212359561383385" name="posterize">"Plakatiks"</string>
+    <string msgid="460313486231965141" name="pref_camcorder_settings_category">"Videokaamera seaded"</string>
+    <string msgid="7288383434237457709" name="pref_camera_flashmode_entry_auto">"Automaatne"</string>
+    <string msgid="867242186958805761" name="pref_camera_flashmode_entry_off">"Väljas"</string>
+    <string msgid="5330043918845197616" name="pref_camera_flashmode_entry_on">"Sees"</string>
+    <string msgid="2287362477238791017" name="pref_camera_flashmode_title">"Välgurežiim"</string>
+    <string msgid="7374820710300362457" name="pref_camera_focusmode_entry_auto">"Automaatne"</string>
+    <string msgid="3413922419264967552" name="pref_camera_focusmode_entry_infinity">"Lõpmatus"</string>
+    <string msgid="4424489110551866161" name="pref_camera_focusmode_entry_macro">"Makro"</string>
+    <string msgid="2877248921829329127" name="pref_camera_focusmode_title">"Teravustamisrežiim"</string>
+    <string msgid="5142699735103692485" name="pref_camera_id_entry_back">"Tagasi"</string>
+    <string msgid="5668958706828733669" name="pref_camera_id_entry_front">"Eestvaade"</string>
+    <string msgid="4040791582294635851" name="pref_camera_id_title">"Vali kaamera"</string>
+    <string msgid="829109608140747258" name="pref_camera_picturesize_entry_1_3mp">"1,3M pikslit"</string>
+    <string msgid="1669725616780375066" name="pref_camera_picturesize_entry_1mp">"1M pikslit"</string>
+    <string msgid="1753709802245460393" name="pref_camera_picturesize_entry_2mp">"2M pikslit"</string>
+    <string msgid="741415860337400696" name="pref_camera_picturesize_entry_3mp">"3M pikslit"</string>
+    <string msgid="2882928212030661159" name="pref_camera_picturesize_entry_5mp">"5M pikslit"</string>
+    <string msgid="259953780932849079" name="pref_camera_picturesize_entry_8mp">"8 megapikslit"</string>
+    <string msgid="8576186463069770133" name="pref_camera_picturesize_entry_qvga">"QVGA"</string>
+    <string msgid="806934254162981919" name="pref_camera_picturesize_entry_vga">"VGA"</string>
+    <string msgid="4333724936665883006" name="pref_camera_picturesize_title">"Pildi suurus"</string>
+    <string msgid="371208839215448917" name="pref_camera_recordlocation_title">"Talletuse asukoht"</string>
+    <string msgid="616748587566110484" name="pref_camera_scenemode_entry_action">"Toiming"</string>
+    <string msgid="7113995286836658648" name="pref_camera_scenemode_entry_auto">"Automaatne"</string>
+    <string msgid="2923388802899511784" name="pref_camera_scenemode_entry_hdr">"HDR"</string>
+    <string msgid="7606898503102476329" name="pref_camera_scenemode_entry_night">"Öö"</string>
+    <string msgid="907053529286788253" name="pref_camera_scenemode_entry_party">"Pidu"</string>
+    <string msgid="181661154611507212" name="pref_camera_scenemode_entry_sunset">"Päikeseloojang"</string>
+    <string msgid="1420535844292504016" name="pref_camera_scenemode_title">"Stseenirežiim"</string>
+    <string msgid="2576236450859613120" name="pref_camera_settings_category">"Kaamera seaded"</string>
+    <string msgid="6580665476983469293" name="pref_camera_whitebalance_entry_auto">"Automaatne"</string>
+    <string msgid="3531996716997959326" name="pref_camera_whitebalance_entry_cloudy">"Pilves"</string>
+    <string msgid="2534757270149561027" name="pref_camera_whitebalance_entry_daylight">"Päevavalgus"</string>
+    <string msgid="2435332872847454032" name="pref_camera_whitebalance_entry_fluorescent">"Päevavalguslamp"</string>
+    <string msgid="8856667786449549938" name="pref_camera_whitebalance_entry_incandescent">"Hõõglamp"</string>
+    <string msgid="677420930596673340" name="pref_camera_whitebalance_title">"Valge tasakaal"</string>
+    <string msgid="1229093066434614811" name="pref_exposure_title">"Säriaeg"</string>
+    <string msgid="8243182968457289488" name="pref_video_effect_title">"Efektid"</string>
+    <string msgid="8664038216234805914" name="pref_video_quality_entry_high">"Kõrge"</string>
+    <string msgid="7258507152393173784" name="pref_video_quality_entry_low">"Madal"</string>
+    <string msgid="8245379279801096922" name="pref_video_quality_title">"Video kvaliteet"</string>
+    <string msgid="1672458758823855874" name="pref_video_time_lapse_frame_interval_1000">"1 sekund"</string>
+    <string msgid="3105568489694909852" name="pref_video_time_lapse_frame_interval_10000">"10 sekundit"</string>
+    <string msgid="2766886102170605302" name="pref_video_time_lapse_frame_interval_10800000">"3 tundi"</string>
+    <string msgid="6055574367392821047" name="pref_video_time_lapse_frame_interval_12000">"12 sekundit"</string>
+    <string msgid="145301938098991278" name="pref_video_time_lapse_frame_interval_120000">"2 minutit"</string>
+    <string msgid="6286246349698492186" name="pref_video_time_lapse_frame_interval_1440000">"24 minutit"</string>
+    <string msgid="7497934659667867582" name="pref_video_time_lapse_frame_interval_14400000">"4 tundi"</string>
+    <string msgid="3415071702490624802" name="pref_video_time_lapse_frame_interval_1500">"1,5 sekundit"</string>
+    <string msgid="2656164845371833761" name="pref_video_time_lapse_frame_interval_15000">"15 sekundit"</string>
+    <string msgid="793707078196731912" name="pref_video_time_lapse_frame_interval_150000">"2,5 minutit"</string>
+    <string msgid="1785467676466542095" name="pref_video_time_lapse_frame_interval_180000">"3 minutit"</string>
+    <string msgid="5042628461448570758" name="pref_video_time_lapse_frame_interval_1800000">"0,5 tundi"</string>
+    <string msgid="8783643014853837140" name="pref_video_time_lapse_frame_interval_18000000">"5 tundi"</string>
+    <string msgid="827813989647794389" name="pref_video_time_lapse_frame_interval_2000">"2 sekundit"</string>
+    <string msgid="5005078879234015432" name="pref_video_time_lapse_frame_interval_21600000">"6 tundi"</string>
+    <string msgid="2192628967233421512" name="pref_video_time_lapse_frame_interval_24000">"24 sekundit"</string>
+    <string msgid="3734507766184666356" name="pref_video_time_lapse_frame_interval_240000">"4 minutit"</string>
+    <string msgid="5750464143606788153" name="pref_video_time_lapse_frame_interval_2500">"2,5 sekundit"</string>
+    <string msgid="2664846627499751396" name="pref_video_time_lapse_frame_interval_3000">"3 sekundit"</string>
+    <string msgid="5923393773260634461" name="pref_video_time_lapse_frame_interval_30000">"0,5 minutit"</string>
+    <string msgid="7442765761995328639" name="pref_video_time_lapse_frame_interval_300000">"5 minutit"</string>
+    <string msgid="6724596937972563920" name="pref_video_time_lapse_frame_interval_360000">"6 minutit"</string>
+    <string msgid="6366071632666482636" name="pref_video_time_lapse_frame_interval_3600000">"1 tund"</string>
+    <string msgid="69942198321578519" name="pref_video_time_lapse_frame_interval_36000000">"10 tundi"</string>
+    <string msgid="7303255804306382651" name="pref_video_time_lapse_frame_interval_4000">"4 sekundit"</string>
+    <string msgid="285992046818504906" name="pref_video_time_lapse_frame_interval_43200000">"12 tundi"</string>
+    <string msgid="2949719376111679816" name="pref_video_time_lapse_frame_interval_500">"0,5 sekundit"</string>
+    <string msgid="6800566761690741841" name="pref_video_time_lapse_frame_interval_5000">"5 sekundit"</string>
+    <string msgid="536117788694519019" name="pref_video_time_lapse_frame_interval_5400000">"1,5 tundi"</string>
+    <string msgid="5740227373848829515" name="pref_video_time_lapse_frame_interval_54000000">"15 tundi"</string>
+    <string msgid="8545447466540319539" name="pref_video_time_lapse_frame_interval_6000">"6 sekundit"</string>
+    <string msgid="4678581247918524850" name="pref_video_time_lapse_frame_interval_60000">"1 minut"</string>
+    <string msgid="6563665954471001352" name="pref_video_time_lapse_frame_interval_600000">"10 minutit"</string>
+    <string msgid="8969801372893266408" name="pref_video_time_lapse_frame_interval_720000">"12 minutit"</string>
+    <string msgid="6846617415182608533" name="pref_video_time_lapse_frame_interval_7200000">"2 tundi"</string>
+    <string msgid="9040201678470052298" name="pref_video_time_lapse_frame_interval_86400000">"24 tundi"</string>
+    <string msgid="1187029705069674152" name="pref_video_time_lapse_frame_interval_90000">"1,5 minutit"</string>
+    <string msgid="5803172407245902896" name="pref_video_time_lapse_frame_interval_900000">"15 minutit"</string>
+    <string msgid="4242839574025261419" name="pref_video_time_lapse_frame_interval_9000000">"2,5 tundi"</string>
+    <string msgid="3490489191038309496" name="pref_video_time_lapse_frame_interval_off">"Väljas"</string>
+    <string msgid="6245716906744079302" name="pref_video_time_lapse_frame_interval_title">"Aeglustus"</string>
+    <string msgid="2914969119574812666" name="preparing_sd" product="default">"SD-kaardi ettevalmistamine ..."</string>
+    <string msgid="4958448806369928239" name="redeye">"Punasilmsus"</string>
+    <string msgid="4183695928490874014" name="redeye_tooltip">"Punasilmsuse eemaldam. puudutage silma"</string>
+    <string msgid="7541394381714894896" name="remember_location_no">"Ei, tänan"</string>
+    <string msgid="724592331305808098" name="remember_location_prompt">"Märkige oma fotodele ja videotele jäädvustamise asukoht."\n\n"Muud rakendused pääsevad lisaks salvestatud piltidele juurde ka sellele teabele."</string>
+    <string msgid="9060472929006917810" name="remember_location_title">"Kas jätta meelde fotode jäädvustamise asukohad?"</string>
+    <string msgid="862884269285964180" name="remember_location_yes">"Jah"</string>
+    <string msgid="9013181350779592937" name="reset">"Lähtesta"</string>
+    <string msgid="7712605581024929564" name="reset_effect">"Lähtesta"</string>
+    <string msgid="8188009385853399254" name="review_cancel">"TÜHISTA"</string>
+    <string msgid="1156261588693116433" name="review_ok">"VALMIS"</string>
+    <string msgid="6607597269792373083" name="rotate">"Pööramine"</string>
+    <string msgid="7008602969130734229" name="rotate_tooltip">"Pööramiseks lohistage fotot"</string>
+    <string msgid="8621322012271169931" name="saturation">"Küllastus"</string>
+    <string msgid="5516670392524294967" name="save">"SALVESTA"</string>
+    <string msgid="8229491575433743974" name="saving_failure">"Muudetud fotot ei õnnestunud salvestada"</string>
+    <string msgid="7978093531824705601" name="sepia">"Seepia"</string>
+    <string msgid="2970567717633813771" name="set_time_interval">"Ajavahemiku määramine"</string>
+    <string msgid="6665849510484821483" name="set_time_interval_help">"Aeglustamisfunktsioon on välja lülitatud. Ajavahemiku määramiseks lülitage funktsioon sisse."</string>
+    <string msgid="4480039384202951946" name="setting_off">"Väljas"</string>
+    <string msgid="8602246224465348901" name="setting_on">"Sees"</string>
+    <string msgid="8235188588101973090" name="shadow">"Varjud"</string>
+    <string msgid="3928572915300287152" name="shadow_recovery">"Varjud"</string>
+    <string msgid="8449662378104403230" name="sharpen">"Teravustamine"</string>
+    <string msgid="6463103068318055412" name="sharpness">"Teravus"</string>
+    <string msgid="7785810372502120090" name="show_history_panel">"Kuva ajalugu"</string>
+    <string msgid="7132294085840948243" name="show_imagestate_panel">"Kuva pildi olek"</string>
+    <string msgid="1732882643101247179" name="spaceIsLow_content" product="default">"Teie SD-kaardi ruum on otsa saamas. Muutke kvaliteedi seadeid või kustutage kujutisi või teisi faile."</string>
+    <string msgid="5217801513491493491" name="straighten">"Rihtimine"</string>
+    <string msgid="4846317027139212339" name="straighten_tooltip">"Rihtimiseks lohistage fotot"</string>
+    <string msgid="8863427645591903760" name="tap_to_focus">"Puudutage fokuseerimiseks."</string>
+    <string msgid="1607987938521534517" name="temperature">"Soojus"</string>
+    <string msgid="1776453661704997476" name="time_lapse_hours">"tundi"</string>
+    <string msgid="2486386210951700943" name="time_lapse_interval_set">"Valmis"</string>
+    <string msgid="7738520349259013762" name="time_lapse_minutes">"minutit"</string>
+    <string msgid="2105521458391118041" name="time_lapse_seconds">"sekundit"</string>
+    <string msgid="4360632427760662691" name="time_lapse_title">"Aeglase filmimise salvestamine"</string>
+    <string msgid="154435943863418434" name="tint">"Heledusvarjund"</string>
+    <string msgid="2783694326474415761" name="tinyplanet">"Pisike planeet"</string>
+    <string msgid="2036539130684382763" name="title_activity_filter_show">"Fototöötlus"</string>
+    <string msgid="3326744578577835915" name="vibrance">"Kirkus"</string>
+    <string msgid="2899292505526427293" name="video_camera_label">"Videokaamera"</string>
+    <string msgid="6179877322015552390" name="video_reach_size_limit">"Suuruspiirang on saavutatud."</string>
+    <string msgid="18833576851372483" name="video_snapshot_hint">"Puudutage salvestamise ajal foto jäädvustamiseks."</string>
+    <string msgid="7648125924662648282" name="vignette">"Vinjett"</string>
+    <string msgid="8600187532323801552" name="wait">"Oodake ..."</string>
+    <string msgid="6346581563387083613" name="wbalance">"Autom. värvid"</string>
+    <string msgid="5402582493291792293" name="yes">"Jah"</string>
+</resources>

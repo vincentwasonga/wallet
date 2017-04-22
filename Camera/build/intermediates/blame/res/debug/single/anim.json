@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/anim/on_screen_hint_enter.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/anim/on_screen_hint_enter.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/anim/on_screen_hint_exit.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/anim/on_screen_hint_exit.xml"
+    }
+]

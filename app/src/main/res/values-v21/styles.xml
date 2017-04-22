@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright 2017, Peter Vincent
+  ~ Licensed under the Apache License, Version 2.0, Vin Budget.
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~ Unless required by applicable law or agreed to in writing,
+  ~ software distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+
+    <style name="DialogAnimationTransition">
+        <item name="android:windowEnterAnimation">@anim/dialog_main_show_animation</item>
+        <item name="android:windowExitAnimation">@anim/dialog_main_hide_animation</item>
+    </style>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:colorBackground">@color/windowBackground</item>
+
+
+    </style>
+
+    <style name="AppTheme.GreenTransparent">
+        <item name="colorPrimary">@color/colorPrimaryTransparent</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkTransparent</item>
+        <item name="colorAccent">@color/colorAccentTransparent</item>
+        <item name="android:colorBackground">@color/windowBackgroundTransparent</item>
+    </style>
+
+    <style name="Theme.AppCompat.Translucent" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:background">#3300796b</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+
+    </style>
+
+    <style name="DatePickerTheme" parent="Theme.AppCompat.Dialog">
+        <item name="android:windowAnimationStyle">@style/DialogAnimationTransition</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="EulaActivityTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowAnimationStyle">@style/DialogAnimationTransition</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorAccent">@color/whiteBackground</item>
+    </style>
+
+    <style name="ReceiptTheme" parent="SplashTheme">
+        <item name="android:background">@color/transparent</item>
+        <item name="android:colorBackground">@color/transparent</item>
+        <item name="colorAccent">@color/colorYellow</item>
+    </style>
+
+    <style name="WelcomeTheme" parent="SplashTheme">
+        <item name="android:background">@color/transparent</item>
+        <item name="colorAccent">@color/whiteBackground</item>
+    </style>
+
+    <style name="TransactionTheme" parent="SplashTheme">
+        <item name="android:background">@color/windowBackground</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="FullscreenTheme" parent="AppTheme.GreenTransparent">
+        <item name="android:actionBarStyle">@style/FullscreenActionBarStyle</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="metaButtonBarStyle">?android:attr/buttonBarStyle</item>
+        <item name="metaButtonBarButtonStyle">?android:attr/buttonBarButtonStyle</item>
+
+    </style>
+
+
+    <style name="FullscreenActionBarStyle" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/black_overlay</item>
+    </style>
+
+    <style name="PBButton" parent="@style/Base.Widget.AppCompat.Button.Borderless">
+        <item name="android:background">@color/transparent</item>
+        <item name="android:minHeight">40dp</item>
+        <item name="android:minWidth">40dp</item>
+        <item name="android:shape">ring</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/windowBackground</item>
+        <item name="android:label">Welcome</item>
+        <item name="android:animateOnClick">true</item>
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:colorBackground">@color/colorPrimary</item>
+        <item name="android:navigationBarColor">@color/black</item>
+        <item name="android:statusBarColor">@color/status_bar</item>
+
+    </style>
+
+    <style name="NotificationDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/colorTextLight</item>
+        <!-- Used for the title add text -->
+        <item name="android:textColorPrimary">@color/colorTextLight</item>
+        <!-- Used for the background -->
+        <item name="android:background">@color/colorAccentLight</item>
+    </style>
+
+    <style name="DeleteFab" parent="Widget.Design.FloatingActionButton">
+        <item name="android:colorAccent">@color/colorRed</item>
+
+    </style>
+
+    <style name="SplashTheme.GreenTransparent" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:alpha">66</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+
+    </style>
+
+    <style name="AppTheme.NoActionBar.GreenTransparent">
+        <item name="android:alpha">66</item>
+    </style>
+
+    <style name="Progress" parent="Theme.AppCompat.Translucent">
+        <item name="android:colorAccent">@color/whiteBackground</item>
+        <item name="android:background">@color/transparent</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkTransparent</item>
+
+    </style>
+
+    <style name="NewItemStyle" parent="Theme.AppCompat.Translucent">
+        <item name="android:colorAccent">@color/colorAccent</item>
+        <item name="android:background">#33000000</item>
+        <item name="colorPrimaryDark">@color/transparent</item>
+    </style>
+
+    <style name="ShadowText" parent="TextAppearance.AppCompat">
+        <item name="android:shadowColor">@color/black_overlay</item>
+        <item name="android:shadowDx">-15</item>
+        <item name="android:shadowDy">15</item>
+        <item name="android:shadowRadius">10</item>
+    </style>
+
+</resources>

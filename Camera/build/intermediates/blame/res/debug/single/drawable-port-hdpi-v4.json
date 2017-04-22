@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/drawable-port-hdpi-v4/ic_zoom_big_large.9.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/drawable-port-hdpi/ic_zoom_big_large.9.png"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/drawable-port-hdpi-v4/btn_camera_shutter_holo_xlarge.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/drawable-port-hdpi/btn_camera_shutter_holo_xlarge.png"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/drawable-port-hdpi-v4/btn_pan_shutter_recording_holo_xlarge.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/drawable-port-hdpi/btn_pan_shutter_recording_holo_xlarge.png"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/drawable-port-hdpi-v4/btn_video_shutter_recording_pressed_holo_xlarge.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/drawable-port-hdpi/btn_video_shutter_recording_pressed_holo_xlarge.png"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/drawable-port-hdpi-v4/switcher_bg.9.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/drawable-port-hdpi/switcher_bg.9.png"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/drawable-port-hdpi-v4/btn_video_shutter_holo_xlarge.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/drawable-port-hdpi/btn_video_shutter_holo_xlarge.png"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/drawable-port-hdpi-v4/btn_pan_shutter_recording_pressed_holo_xlarge.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/drawable-port-hdpi/btn_pan_shutter_recording_pressed_holo_xlarge.png"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/drawable-port-hdpi-v4/ic_zoom_big_dark_large.9.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/drawable-port-hdpi/ic_zoom_big_dark_large.9.png"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/drawable-port-hdpi-v4/ic_zoom_big_dark.9.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/drawable-port-hdpi/ic_zoom_big_dark.9.png"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/drawable-port-hdpi-v4/btn_camera_shutter_pressed_holo_xlarge.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/drawable-port-hdpi/btn_camera_shutter_pressed_holo_xlarge.png"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/drawable-port-hdpi-v4/btn_pan_shutter_pressed_holo_xlarge.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/drawable-port-hdpi/btn_pan_shutter_pressed_holo_xlarge.png"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/drawable-port-hdpi-v4/ic_zoom_big.9.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/drawable-port-hdpi/ic_zoom_big.9.png"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/drawable-port-hdpi-v4/btn_video_shutter_recording_holo_xlarge.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/drawable-port-hdpi/btn_video_shutter_recording_holo_xlarge.png"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/drawable-port-hdpi-v4/btn_video_shutter_pressed_holo_xlarge.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/drawable-port-hdpi/btn_video_shutter_pressed_holo_xlarge.png"
+    }
+]

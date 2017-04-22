@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/release/layout-land/pano_module_capture.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout-land/pano_module_capture.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/release/layout-land/keyguard_widget.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout-land/keyguard_widget.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/release/layout-land/review_module_control.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout-land/review_module_control.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/release/layout-land/video_module.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout-land/video_module.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/release/layout-land/switcher_popup.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout-land/switcher_popup.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/release/layout-land/preview_frame_pano.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout-land/preview_frame_pano.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/release/layout-land/on_screen_hint.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout-land/on_screen_hint.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/release/layout-land/photo_module.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout-land/photo_module.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/release/layout-land/camera_shutter_switcher.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout-land/camera_shutter_switcher.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/release/layout-land/pano_review.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout-land/pano_review.xml"
+    }
+]

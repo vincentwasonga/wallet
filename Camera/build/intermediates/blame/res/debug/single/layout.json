@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/popup_list_item.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/popup_list_item.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/in_line_setting_switch.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/in_line_setting_switch.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/action_mode.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/action_mode.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/movie_view.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/movie_view.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/photoeditor_effect_tool_panel.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/photoeditor_effect_tool_panel.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/appwidget_main.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/appwidget_main.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/photoeditor_effects_artistic.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/photoeditor_effects_artistic.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/in_line_setting_menu.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/in_line_setting_menu.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/time_interval_picker.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/time_interval_picker.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/preview_module_frame_video.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/preview_module_frame_video.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/photoeditor_effects_gallery.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/photoeditor_effects_gallery.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/photoeditor_flip_view.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/photoeditor_flip_view.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/photoeditor_scale_seekbar.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/photoeditor_scale_seekbar.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/manage_offline_bar.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/manage_offline_bar.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/viewfinder_labels_video.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/viewfinder_labels_video.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/trim_menu.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/trim_menu.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/photo_frame.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/photo_frame.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/panorama_module.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/panorama_module.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/photoeditor_effects_exposure.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/photoeditor_effects_exposure.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/photoeditor_effects_menu.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/photoeditor_effects_menu.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/rotate_dialog.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/rotate_dialog.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/details.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/details.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/bg_replacement_training_message.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/bg_replacement_training_message.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/photoeditor_actionbar.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/photoeditor_actionbar.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/camera_main.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/camera_main.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/menu_indicators.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/menu_indicators.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/appwidget_loading_item.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/appwidget_loading_item.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/photoeditor_effects_fix.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/photoeditor_effects_fix.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/preview_surface_view.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/preview_surface_view.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/effect_setting_popup.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/effect_setting_popup.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/time_interval_popup.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/time_interval_popup.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/photoeditor_effects_color.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/photoeditor_effects_color.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/more_setting_popup.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/more_setting_popup.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/gl_root_group.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/gl_root_group.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/choose_widget_type.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/choose_widget_type.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/cropimage.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/cropimage.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/details_list.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/details_list.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/photoeditor_crop_view.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/photoeditor_crop_view.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/photoeditor_effect_tool_fullscreen.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/photoeditor_effect_tool_fullscreen.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/menu_indicators_keyguard.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/menu_indicators_keyguard.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/action_bar_text.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/action_bar_text.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/photopage_bottom_controls.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/photopage_bottom_controls.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/list_pref_setting_popup.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/list_pref_setting_popup.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/photoeditor_touch_view.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/photoeditor_touch_view.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/photoeditor_main.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/photoeditor_main.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/setting_item.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/setting_item.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/appwidget_photo_item.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/appwidget_photo_item.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/preview_module_frame.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/preview_module_frame.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/trim_view.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/trim_view.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/photoeditor_color_seekbar.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/photoeditor_color_seekbar.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/action_bar_two_line_text.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/action_bar_two_line_text.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/dialog_picker.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/dialog_picker.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/rotate_text_toast.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/rotate_text_toast.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/effect_setting_item.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/effect_setting_item.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/photoeditor_rotate_view.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/photoeditor_rotate_view.xml"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/debug/layout/photopage_progress_bar.xml",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/layout/photopage_progress_bar.xml"
+    }
+]

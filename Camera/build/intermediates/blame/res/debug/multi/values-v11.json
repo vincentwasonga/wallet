@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 87,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1041,
+                        "endColumn": 87,
+                        "endOffset": 1124
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 143,
+                    "endColumn": 91,
+                    "endOffset": 230
+                },
+                "from": {
+                    "file": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1129,
+                        "endColumn": 91,
+                        "endOffset": 1216
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright 2017, Peter Vincent
+  ~ Licensed under the Apache License, Version 2.0, Vin Budget.
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~ Unless required by applicable law or agreed to in writing,
+  ~ software distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <color name="colorPrimaryDark">#5d4037</color>
+    <color name="colorPrimaryLight">#a18875</color>
+    <color name="colorPrimaryDarkTransparent">#335d4037</color>
+    <color name="colorPrimary">#795548</color>
+    <color name="colorPrimaryTransparent">#33795548</color>
+    <color name="colorAccent">#00bcd4</color>
+    <color name="colorAccentDark">#0097a7</color>
+    <color name="colorAccentLight">#80deea</color>
+    <color name="colorAccentTransparent">#3300bcd4</color>
+    <color name="green_background">#e600796b</color>
+    <color name="slash_screen_text_color">#eeeeee</color>
+    <color name="active_background">#aeea00</color>
+    <color name="black">#000000</color>
+    <color name="status_bar">@color/transparent</color>
+    <color name="whiteBackground">#ffffff</color>
+    <color name="colorGreen">#259b24</color>
+    <color name="colorOrange">#ff9800</color>
+    <color name="colorLemon">#1de9b6</color>
+    <color name="colorYellow">#ffeb3b</color>
+    <color name="colorBrown">#795548</color>
+    <color name="colorBlue">#03a9f4</color>
+    <color name="colorBlue_Light">#b3e5fc</color>
+    <color name="colorRed">#e51c23</color>
+    <color name="windowBackground">#efebe9</color>
+    <color name="windowBackgroundTransparent">#33efebe9</color>
+    <color name="transparent">#00000000</color>
+    <color name="colorTextLight">#e0e0e0</color>
+    <color name="black_overlay">#66000000</color>
+</resources>

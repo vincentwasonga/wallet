@@ -1,0 +1,152 @@
+[
+    {
+        "outputFile": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-land/values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/bundles/debug/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 387
+                },
+                "from": {
+                    "file": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/bundles/debug/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 392,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/bundles/debug/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 945,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1417
+                },
+                "from": {
+                    "file": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/bundles/debug/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 945,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1422,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 1797
+                },
+                "from": {
+                    "file": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/bundles/debug/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1422,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1802,
+                    "endLine": 42,
+                    "endColumn": 12,
+                    "endOffset": 2249
+                },
+                "from": {
+                    "file": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/bundles/debug/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1802,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 2249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2254,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 2688
+                },
+                "from": {
+                    "file": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/bundles/debug/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2254,
+                        "endLine": 50,
+                        "endColumn": 12,
+                        "endOffset": 2688
+                    }
+                }
+            }
+        ]
+    }
+]

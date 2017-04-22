@@ -1,0 +1,66 @@
+<!--
+  ~ Copyright 2017, Peter Vincent
+  ~ Licensed under the Apache License, Version 2.0, Vin Budget.
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~ Unless required by applicable law or agreed to in writing,
+  ~ software distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.octopus.wallet.u.a.m.EulaActivity"
+    android:background="@color/windowBackground"
+    android:orientation="vertical">
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:id="@+id/topLayout"
+        android:paddingBottom="10dp"
+        app:cardElevation="2dp"
+        app:cardCornerRadius="0dp"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:background="@color/colorPrimaryDark">
+            <ImageButton
+                android:background="?android:selectableItemBackgroundBorderless"
+                android:clickable="true"
+                android:focusable="true"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:id="@+id/backButton"
+                android:src="@drawable/ic_arrow_back"
+                android:scaleType="fitCenter"
+                android:layout_centerVertical="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Large Text"
+                android:id="@+id/titleText"
+                android:layout_toRightOf="@+id/backButton"
+                android:gravity="center_vertical"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:textColor="@color/windowBackground" />
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+    <com.octopus.wallet.m.v.v.ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <WebView
+            android:id="@+id/fullscreen_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </com.octopus.wallet.m.v.v.ScrollView>
+</LinearLayout>

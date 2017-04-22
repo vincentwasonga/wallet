@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="1584968646870054352" name="access_sd_fail" product="default">"Kon nie toegang tot SD-kaart kry."</string>
+    <string msgid="5234411571109877131" name="accessibility_back_to_first_level">"Maak instellingkontroles toe"</string>
+    <string msgid="1156382046161392389" name="accessibility_black_and_white">"Swart en wit"</string>
+    <string msgid="8807945470215734566" name="accessibility_camera_picker">"Skakelaar vir voorste of agterste kamera"</string>
+    <string msgid="1411194318538035666" name="accessibility_decrement">"Verminder %1$s"</string>
+    <string msgid="8447850530444401135" name="accessibility_increment">"Vermeerder %1$s"</string>
+    <string msgid="7140794046259897328" name="accessibility_menu_button">"Kieslysknoppie"</string>
+    <string msgid="3278002189966833100" name="accessibility_mode_picker">"Kamera-, video- of panoramakieser"</string>
+    <string msgid="9070531914908644686" name="accessibility_review_cancel">"Kanselleer hersiening"</string>
+    <string msgid="7793302834271343168" name="accessibility_review_ok">"Voltooi hersiening"</string>
+    <string msgid="659300290054705484" name="accessibility_review_retake">"Hersien neem weer"</string>
+    <string msgid="8961275263537513017" name="accessibility_review_thumbnail">"Mees onlangse foto"</string>
+    <string msgid="3855951632917627620" name="accessibility_second_level_indicators">"Meer instellingkontroles"</string>
+    <string msgid="2664037763232556307" name="accessibility_shutter_button">"Sluiterknoppie"</string>
+    <string msgid="6995966685498958895" name="accessibility_switch">"%1$s skakelaar"</string>
+    <string msgid="5951340774212969461" name="accessibility_switch_to_camera">"Skakel oor na foto"</string>
+    <string msgid="8116783308051524188" name="accessibility_switch_to_new_panorama">"Skakel oor na nuwe panorama"</string>
+    <string msgid="604756878371875836" name="accessibility_switch_to_panorama">"Skakel oor na panorama"</string>
+    <string msgid="4991396355234561505" name="accessibility_switch_to_video">"Skakel oor na video"</string>
+    <string msgid="1339909363226825709" name="accessibility_zoom_control">"Zoembeheer"</string>
+    <string msgid="1218288221200568947" name="apply_effect">"Pas toe"</string>
+    <string msgid="4025244950820813059" name="aspect">"Aspek"</string>
+    <string msgid="1159104543795779123" name="aspect1to1_effect">"1:1"</string>
+    <string msgid="7078163990979248864" name="aspect3to4_effect">"3:4"</string>
+    <string msgid="7968067847241223578" name="aspect4to3_effect">"4:3"</string>
+    <string msgid="1410129351686165654" name="aspect4to6_effect">"4:6"</string>
+    <string msgid="5122395569059384741" name="aspect5to7_effect">"5:7"</string>
+    <string msgid="5780001758108328143" name="aspect7to5_effect">"7:5"</string>
+    <string msgid="7740468012919660728" name="aspect9to16_effect">"16:9"</string>
+    <string msgid="6263330561046574134" name="aspectNone_effect">"Geen"</string>
+    <string msgid="1663414996270538748" name="autofix">"Outokorrigeer"</string>
+    <string msgid="9184270738916564608" name="bg_replacement_message">"Sit jou toestel neer."\n"Stap vir \'n oomblik buite sig."</string>
+    <string msgid="2067345080568684614" name="borders">"Grense"</string>
+    <string msgid="8927492494576933793" name="bwfilter">"SW-filter"</string>
+    <string msgid="8923911090533439312" name="camera_disabled">"Kamera is gedeaktiveer weens sekuriteitsbeleide."</string>
+    <string msgid="6484667504938477337" name="camera_error_title">"Kamerafout"</string>
+    <string msgid="6346560772074764302" name="camera_label">"Kamera"</string>
+    <string msgid="955440687597185163" name="cannot_connect_camera">"Kan nie aan die kamera koppel nie."</string>
+    <string msgid="5023634941212959976" name="cannot_load_image">"Kan die beeld nie laai nie!"</string>
+    <string msgid="7231052688467970897" name="capital_off">"AF"</string>
+    <string msgid="5491353494964003567" name="capital_on">"AAN"</string>
+    <string msgid="5485339175014139481" name="clear_effects">"Vee effekte uit"</string>
+    <string msgid="8140838959007796977" name="compare_original">"Vergelyk"</string>
+    <string msgid="2310908487756769019" name="contrast">"Kontras"</string>
+    <string msgid="7598378507763334041" name="crop">"Snoei"</string>
+    <string msgid="8794037869706891710" name="crop_tooltip">"Trek merkers om foto te sny"</string>
+    <string msgid="4173724489001742342" name="crossprocess">"Kruisproses"</string>
+    <string msgid="915010781090477550" name="curvesRGB">"Kurwes"</string>
+    <string msgid="9129211507395079371" name="curves_channel_blue">"Blou"</string>
+    <string msgid="3733003466905031016" name="curves_channel_green">"Groen"</string>
+    <string msgid="4199710104162111357" name="curves_channel_red">"Rooi"</string>
+    <string msgid="7909209509638333690" name="curves_channel_rgb">"RGB"</string>
+    <string msgid="6263301364153382152" name="dialog_ok">"OK"</string>
+    <string msgid="4957723267826476079" name="disable_video_snapshot_hint">"Video-momentopname is gedeaktiveer wanneer spesiale effekte aan is."</string>
+    <string msgid="2353274490633681946" name="discard_unsaved_photo">"Raak ontslae van ongestoorde veranderinge?"</string>
+    <string msgid="50396326708699797" name="documentary">"Dokumentêr"</string>
+    <string msgid="3112344807927554662" name="done">"Klaar"</string>
+    <string msgid="1686409894518940990" name="doodle">"Krabbel"</string>
+    <string msgid="2902117272374362915" name="doodle_tooltip">"Teken op foto om te krabbel"</string>
+    <string msgid="8145893940788467106" name="duotone">"Twee kleure"</string>
+    <string msgid="959158844620991906" name="effect_backdropper_gallery">"Jou video"</string>
+    <string msgid="7935661090723068402" name="effect_backdropper_space">"In die ruimte"</string>
+    <string msgid="45198943771777870" name="effect_backdropper_sunset">"Sonsondergang"</string>
+    <string msgid="6579360207378171022" name="effect_background">"AGTERGROND"</string>
+    <string msgid="3945182409691408412" name="effect_goofy_face_big_eyes">"Groot oë"</string>
+    <string msgid="7528748779754643144" name="effect_goofy_face_big_mouth">"Groot mond"</string>
+    <string msgid="5180533098740577137" name="effect_goofy_face_big_nose">"Groot neus"</string>
+    <string msgid="1070355596290331271" name="effect_goofy_face_small_eyes">"Klein oë"</string>
+    <string msgid="3848209817806932565" name="effect_goofy_face_small_mouth">"Klein mond"</string>
+    <string msgid="1207235692524289171" name="effect_goofy_face_squeeze">"Druk"</string>
+    <string msgid="3601545724573307541" name="effect_none">"Geen"</string>
+    <string msgid="8107732405347155777" name="effect_silly_faces">"LAWWE GESIGTE"</string>
+    <string msgid="6526397045949374905" name="exposure">"Beligting"</string>
+    <string msgid="6205748523156172637" name="facelift">"Face Glow"</string>
+    <string msgid="4412831806626044111" name="facetan">"Gesigsverbruining"</string>
+    <string msgid="2644989991700022526" name="filllight">"Vullig"</string>
+    <string msgid="4219489910543059747" name="filtershow_redo">"Herdoen"</string>
+    <string msgid="6781743189243585101" name="filtershow_undo">"Ontdoen"</string>
+    <string msgid="6037488646928998921" name="fisheye">"Visoog"</string>
+    <string msgid="2357692401826287480" name="flip">"Keer om"</string>
+    <string msgid="2700943256714731737" name="flip_tooltip">"Trek foto om dit om te keer"</string>
+    <string msgid="7487585304579789098" name="grain">"Filmgrein"</string>
+    <string msgid="7641563843060945228" name="grayscale">"S &amp; W"</string>
+    <string msgid="2082672248771133871" name="hide_history_panel">"Versteek geskiedenis"</string>
+    <string msgid="1135313661068111161" name="hide_imagestate_panel">"Versteek prenttoestand"</string>
+    <string msgid="3902653944386623972" name="highlight">"Helder lig"</string>
+    <string msgid="455767361472692409" name="history">"Geskiedenis"</string>
+    <string msgid="6231252147971086030" name="hue">"Kleur"</string>
+    <string msgid="3609930035023754855" name="imageState">"Huidige prenttoestand"</string>
+    <string msgid="7890360277163832130" name="loading_failure">"Kon nie die foto laai nie"</string>
+    <string msgid="1270032154357186736" name="lomoish">"Lomo"</string>
+    <string msgid="6428291655769260831" name="menu_settings">"Instellings"</string>
+    <string msgid="5482518108154883096" name="mirror">"Spieël"</string>
+    <string msgid="1985508917342811252" name="negative">"Negatief"</string>
+    <string msgid="5137703033746873624" name="no_storage" product="default">"Sit \'n SD-kaart in voor jy die kamera gebruik."</string>
+    <string msgid="6633966646410296520" name="none">"Geen"</string>
+    <string msgid="2970291701448555126" name="not_selectable_in_scene_mode">"Kan nie in toneelmodus gekies word nie."</string>
+    <string msgid="3524493791230430897" name="original">"Oorspronklike"</string>
+    <string msgid="8248825828264374507" name="pano_capture_indication">"Lê panorama vas"</string>
+    <string msgid="2155692796549642116" name="pano_dialog_panorama_failed">"Kon nie panorama stoor nie."</string>
+    <string msgid="4788441554128083543" name="pano_dialog_prepare_preview">"Berei panorama voor"</string>
+    <string msgid="5755531234434437697" name="pano_dialog_title">"Panorama"</string>
+    <string msgid="7800325815031423516" name="pano_dialog_waiting_previous">"Wag vir vorige panorama"</string>
+    <string msgid="2887552964129301902" name="pano_review_rendering">"Weergewing van panorama"</string>
+    <string msgid="2054886016665130188" name="pano_review_saving_indication_str">"Stoor tans…"</string>
+    <string msgid="2823839093291374709" name="pano_too_fast_prompt">"Te vinnig"</string>
+    <string msgid="6163006724627682202" name="photo_saved">"Geredigeerde foto gestoor in <ns1:g id="FOLDER_NAME">%s</ns1:g>"</string>
+    <string msgid="2810641816416597464" name="photoeditor_artistic">"Artistieke effekte"</string>
+    <string msgid="834210916165605468" name="photoeditor_color">"Kleureffekte"</string>
+    <string msgid="560535856805042987" name="photoeditor_exposure">"Beligtingeffekte"</string>
+    <string msgid="6441595584425037477" name="photoeditor_fix">"Maak reg"</string>
+    <string msgid="4738587346771969697" name="photoeditor_name">"Fotoateljee"</string>
+    <string msgid="5999984591376273768" name="photoeditor_redo">"Herdoen"</string>
+    <string msgid="4831462549862253564" name="photoeditor_undo">"Ontdoen"</string>
+    <string msgid="4139212359561383385" name="posterize">"Plakkateer"</string>
+    <string msgid="460313486231965141" name="pref_camcorder_settings_category">"Videokamera-instellings"</string>
+    <string msgid="7288383434237457709" name="pref_camera_flashmode_entry_auto">"Outo"</string>
+    <string msgid="867242186958805761" name="pref_camera_flashmode_entry_off">"Af"</string>
+    <string msgid="5330043918845197616" name="pref_camera_flashmode_entry_on">"Aan"</string>
+    <string msgid="2287362477238791017" name="pref_camera_flashmode_title">"Flits-modus"</string>
+    <string msgid="7374820710300362457" name="pref_camera_focusmode_entry_auto">"Outo"</string>
+    <string msgid="3413922419264967552" name="pref_camera_focusmode_entry_infinity">"Oneindig"</string>
+    <string msgid="4424489110551866161" name="pref_camera_focusmode_entry_macro">"Makro"</string>
+    <string msgid="2877248921829329127" name="pref_camera_focusmode_title">"Fokus"</string>
+    <string msgid="5142699735103692485" name="pref_camera_id_entry_back">"Terug"</string>
+    <string msgid="5668958706828733669" name="pref_camera_id_entry_front">"Voorkant"</string>
+    <string msgid="4040791582294635851" name="pref_camera_id_title">"Kies kamera"</string>
+    <string msgid="829109608140747258" name="pref_camera_picturesize_entry_1_3mp">"1.3M pixels"</string>
+    <string msgid="1669725616780375066" name="pref_camera_picturesize_entry_1mp">"1M pixels"</string>
+    <string msgid="1753709802245460393" name="pref_camera_picturesize_entry_2mp">"2M pixels"</string>
+    <string msgid="741415860337400696" name="pref_camera_picturesize_entry_3mp">"3M pixels"</string>
+    <string msgid="2882928212030661159" name="pref_camera_picturesize_entry_5mp">"5M pixels"</string>
+    <string msgid="259953780932849079" name="pref_camera_picturesize_entry_8mp">"8M pixels"</string>
+    <string msgid="8576186463069770133" name="pref_camera_picturesize_entry_qvga">"QVGA"</string>
+    <string msgid="806934254162981919" name="pref_camera_picturesize_entry_vga">"VGA"</string>
+    <string msgid="4333724936665883006" name="pref_camera_picturesize_title">"Prentgrootte"</string>
+    <string msgid="371208839215448917" name="pref_camera_recordlocation_title">"Stoor ligging"</string>
+    <string msgid="616748587566110484" name="pref_camera_scenemode_entry_action">"Handeling"</string>
+    <string msgid="7113995286836658648" name="pref_camera_scenemode_entry_auto">"Outo"</string>
+    <string msgid="2923388802899511784" name="pref_camera_scenemode_entry_hdr">"HDR"</string>
+    <string msgid="7606898503102476329" name="pref_camera_scenemode_entry_night">"Nag"</string>
+    <string msgid="907053529286788253" name="pref_camera_scenemode_entry_party">"Partytjie"</string>
+    <string msgid="181661154611507212" name="pref_camera_scenemode_entry_sunset">"Sonsondergang"</string>
+    <string msgid="1420535844292504016" name="pref_camera_scenemode_title">"Toneel-modus"</string>
+    <string msgid="2576236450859613120" name="pref_camera_settings_category">"Kamera-instellings"</string>
+    <string msgid="6580665476983469293" name="pref_camera_whitebalance_entry_auto">"Outo"</string>
+    <string msgid="3531996716997959326" name="pref_camera_whitebalance_entry_cloudy">"Bewolk"</string>
+    <string msgid="2534757270149561027" name="pref_camera_whitebalance_entry_daylight">"Daglig"</string>
+    <string msgid="2435332872847454032" name="pref_camera_whitebalance_entry_fluorescent">"Fluoresserend"</string>
+    <string msgid="8856667786449549938" name="pref_camera_whitebalance_entry_incandescent">"Gloeiend"</string>
+    <string msgid="677420930596673340" name="pref_camera_whitebalance_title">"Witbalans"</string>
+    <string msgid="1229093066434614811" name="pref_exposure_title">"Beligting"</string>
+    <string msgid="8243182968457289488" name="pref_video_effect_title">"Effekte"</string>
+    <string msgid="8664038216234805914" name="pref_video_quality_entry_high">"Hoog"</string>
+    <string msgid="7258507152393173784" name="pref_video_quality_entry_low">"Laag"</string>
+    <string msgid="8245379279801096922" name="pref_video_quality_title">"Videogehalte"</string>
+    <string msgid="1672458758823855874" name="pref_video_time_lapse_frame_interval_1000">"1 sekonde"</string>
+    <string msgid="3105568489694909852" name="pref_video_time_lapse_frame_interval_10000">"10 sekondes"</string>
+    <string msgid="2766886102170605302" name="pref_video_time_lapse_frame_interval_10800000">"3 ure"</string>
+    <string msgid="6055574367392821047" name="pref_video_time_lapse_frame_interval_12000">"12 sekondes"</string>
+    <string msgid="145301938098991278" name="pref_video_time_lapse_frame_interval_120000">"2 minute"</string>
+    <string msgid="6286246349698492186" name="pref_video_time_lapse_frame_interval_1440000">"24 minute"</string>
+    <string msgid="7497934659667867582" name="pref_video_time_lapse_frame_interval_14400000">"4 ure"</string>
+    <string msgid="3415071702490624802" name="pref_video_time_lapse_frame_interval_1500">"1,5 sekondes"</string>
+    <string msgid="2656164845371833761" name="pref_video_time_lapse_frame_interval_15000">"15 sekondes"</string>
+    <string msgid="793707078196731912" name="pref_video_time_lapse_frame_interval_150000">"2,5 minute"</string>
+    <string msgid="1785467676466542095" name="pref_video_time_lapse_frame_interval_180000">"3 minute"</string>
+    <string msgid="5042628461448570758" name="pref_video_time_lapse_frame_interval_1800000">"0,5 ure"</string>
+    <string msgid="8783643014853837140" name="pref_video_time_lapse_frame_interval_18000000">"5 ure"</string>
+    <string msgid="827813989647794389" name="pref_video_time_lapse_frame_interval_2000">"2 sekondes"</string>
+    <string msgid="5005078879234015432" name="pref_video_time_lapse_frame_interval_21600000">"6 ure"</string>
+    <string msgid="2192628967233421512" name="pref_video_time_lapse_frame_interval_24000">"24 sekondes"</string>
+    <string msgid="3734507766184666356" name="pref_video_time_lapse_frame_interval_240000">"4 minute"</string>
+    <string msgid="5750464143606788153" name="pref_video_time_lapse_frame_interval_2500">"2,5 sekondes"</string>
+    <string msgid="2664846627499751396" name="pref_video_time_lapse_frame_interval_3000">"3 sekondes"</string>
+    <string msgid="5923393773260634461" name="pref_video_time_lapse_frame_interval_30000">"0,5 minute"</string>
+    <string msgid="7442765761995328639" name="pref_video_time_lapse_frame_interval_300000">"5 minute"</string>
+    <string msgid="6724596937972563920" name="pref_video_time_lapse_frame_interval_360000">"6 minute"</string>
+    <string msgid="6366071632666482636" name="pref_video_time_lapse_frame_interval_3600000">"1 uur"</string>
+    <string msgid="69942198321578519" name="pref_video_time_lapse_frame_interval_36000000">"10 ure"</string>
+    <string msgid="7303255804306382651" name="pref_video_time_lapse_frame_interval_4000">"4 sekondes"</string>
+    <string msgid="285992046818504906" name="pref_video_time_lapse_frame_interval_43200000">"12 ure"</string>
+    <string msgid="2949719376111679816" name="pref_video_time_lapse_frame_interval_500">"0,5 sekondes"</string>
+    <string msgid="6800566761690741841" name="pref_video_time_lapse_frame_interval_5000">"5 sekondes"</string>
+    <string msgid="536117788694519019" name="pref_video_time_lapse_frame_interval_5400000">"1,5 ure"</string>
+    <string msgid="5740227373848829515" name="pref_video_time_lapse_frame_interval_54000000">"15 ure"</string>
+    <string msgid="8545447466540319539" name="pref_video_time_lapse_frame_interval_6000">"6 sekondes"</string>
+    <string msgid="4678581247918524850" name="pref_video_time_lapse_frame_interval_60000">"1 minuut"</string>
+    <string msgid="6563665954471001352" name="pref_video_time_lapse_frame_interval_600000">"10 minute"</string>
+    <string msgid="8969801372893266408" name="pref_video_time_lapse_frame_interval_720000">"12 minute"</string>
+    <string msgid="6846617415182608533" name="pref_video_time_lapse_frame_interval_7200000">"2 ure"</string>
+    <string msgid="9040201678470052298" name="pref_video_time_lapse_frame_interval_86400000">"24 ure"</string>
+    <string msgid="1187029705069674152" name="pref_video_time_lapse_frame_interval_90000">"1,5 minute"</string>
+    <string msgid="5803172407245902896" name="pref_video_time_lapse_frame_interval_900000">"15 minute"</string>
+    <string msgid="4242839574025261419" name="pref_video_time_lapse_frame_interval_9000000">"2,5 ure"</string>
+    <string msgid="3490489191038309496" name="pref_video_time_lapse_frame_interval_off">"Af"</string>
+    <string msgid="6245716906744079302" name="pref_video_time_lapse_frame_interval_title">"Tydsverloop"</string>
+    <string msgid="2914969119574812666" name="preparing_sd" product="default">"Berei tans SD-kaart voor..."</string>
+    <string msgid="4958448806369928239" name="redeye">"Rooi oog"</string>
+    <string msgid="4183695928490874014" name="redeye_tooltip">"Tik op rooi oë om hulle te verwyder"</string>
+    <string msgid="7541394381714894896" name="remember_location_no">"Nee dankie"</string>
+    <string msgid="724592331305808098" name="remember_location_prompt">"Merk jou foto\'s en video\'s met die liggings waar hulle geneem is."\n\n"Ander programme kan toegang kry tot hierdie inligting saam met jou gestoorde prente."</string>
+    <string msgid="9060472929006917810" name="remember_location_title">"Moet foto-liggings onthou word?"</string>
+    <string msgid="862884269285964180" name="remember_location_yes">"Ja"</string>
+    <string msgid="9013181350779592937" name="reset">"Stel terug"</string>
+    <string msgid="7712605581024929564" name="reset_effect">"Stel terug"</string>
+    <string msgid="8188009385853399254" name="review_cancel">"KANSELLEER"</string>
+    <string msgid="1156261588693116433" name="review_ok">"KLAAR"</string>
+    <string msgid="6607597269792373083" name="rotate">"Draai"</string>
+    <string msgid="7008602969130734229" name="rotate_tooltip">"Trek foto om dit te draai"</string>
+    <string msgid="8621322012271169931" name="saturation">"Kleurdiepte"</string>
+    <string msgid="5516670392524294967" name="save">"Stoor"</string>
+    <string msgid="8229491575433743974" name="saving_failure">"Kon nie geredigeerde foto stoor nie"</string>
+    <string msgid="7978093531824705601" name="sepia">"Sepia"</string>
+    <string msgid="2970567717633813771" name="set_time_interval">"Stel tydinterval"</string>
+    <string msgid="6665849510484821483" name="set_time_interval_help">"Tydsverloop-kenmerk is af. Skakel dit aan om tydstussenpose te stel."</string>
+    <string msgid="4480039384202951946" name="setting_off">"Af"</string>
+    <string msgid="8602246224465348901" name="setting_on">"Aan"</string>
+    <string msgid="8235188588101973090" name="shadow">"Skadu\'s"</string>
+    <string msgid="3928572915300287152" name="shadow_recovery">"Skaduwees"</string>
+    <string msgid="8449662378104403230" name="sharpen">"Maak skerper"</string>
+    <string msgid="6463103068318055412" name="sharpness">"Skerpheid"</string>
+    <string msgid="7785810372502120090" name="show_history_panel">"Wys geskiedenis"</string>
+    <string msgid="7132294085840948243" name="show_imagestate_panel">"Wys prenttoestand"</string>
+    <string msgid="1732882643101247179" name="spaceIsLow_content" product="default">"Jou SD-kaart raak vol. Verander die gehalte-instelling of vee \'n paar prente of ander lêers uit."</string>
+    <string msgid="5217801513491493491" name="straighten">"Maak reguit"</string>
+    <string msgid="4846317027139212339" name="straighten_tooltip">"Trek foto om dit reguit te trek"</string>
+    <string msgid="8863427645591903760" name="tap_to_focus">"Raak om te fokus."</string>
+    <string msgid="1607987938521534517" name="temperature">"Warmte"</string>
+    <string msgid="1776453661704997476" name="time_lapse_hours">"ure"</string>
+    <string msgid="2486386210951700943" name="time_lapse_interval_set">"Klaar"</string>
+    <string msgid="7738520349259013762" name="time_lapse_minutes">"minute"</string>
+    <string msgid="2105521458391118041" name="time_lapse_seconds">"sekondes"</string>
+    <string msgid="4360632427760662691" name="time_lapse_title">"Tydsverloop-opname"</string>
+    <string msgid="154435943863418434" name="tint">"Tint"</string>
+    <string msgid="2783694326474415761" name="tinyplanet">"Klein planeet"</string>
+    <string msgid="2036539130684382763" name="title_activity_filter_show">"Fotoredigeerder"</string>
+    <string msgid="3326744578577835915" name="vibrance">"Kleurhelderheid"</string>
+    <string msgid="2899292505526427293" name="video_camera_label">"Videokamera"</string>
+    <string msgid="6179877322015552390" name="video_reach_size_limit">"Groottebeperking bereik."</string>
+    <string msgid="18833576851372483" name="video_snapshot_hint">"Raak om foto tydens opname te neem."</string>
+    <string msgid="7648125924662648282" name="vignette">"Vinjet"</string>
+    <string msgid="8600187532323801552" name="wait">"Wag asseblief…"</string>
+    <string msgid="6346581563387083613" name="wbalance">"Outokleur"</string>
+    <string msgid="5402582493291792293" name="yes">"Ja"</string>
+</resources>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/release/mipmap-xxhdpi-v4/ic_launcher_video_camera.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/mipmap-xxhdpi/ic_launcher_video_camera.png"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/release/mipmap-xxhdpi-v4/ic_launcher_gallery.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/mipmap-xxhdpi/ic_launcher_gallery.png"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/release/mipmap-xxhdpi-v4/ic_launcher_camera.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/mipmap-xxhdpi/ic_launcher_camera.png"
+    }
+]

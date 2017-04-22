@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="1584968646870054352" name="access_sd_fail" product="default">"Får ikke tilgang til SD-kort."</string>
+    <string msgid="5234411571109877131" name="accessibility_back_to_first_level">"Lukk innstillingskontrollene"</string>
+    <string msgid="1156382046161392389" name="accessibility_black_and_white">"Svart/hvitt"</string>
+    <string msgid="8807945470215734566" name="accessibility_camera_picker">"Bryter for foran/bak"</string>
+    <string msgid="1411194318538035666" name="accessibility_decrement">"Reduser %1$s"</string>
+    <string msgid="8447850530444401135" name="accessibility_increment">"Øk %1$s"</string>
+    <string msgid="7140794046259897328" name="accessibility_menu_button">"Meny-knapp"</string>
+    <string msgid="3278002189966833100" name="accessibility_mode_picker">"Valg av kamera, video eller panorama"</string>
+    <string msgid="9070531914908644686" name="accessibility_review_cancel">"Avbryt redigering"</string>
+    <string msgid="7793302834271343168" name="accessibility_review_ok">"Redigering fullført"</string>
+    <string msgid="659300290054705484" name="accessibility_review_retake">"Ta nytt bilde/video"</string>
+    <string msgid="8961275263537513017" name="accessibility_review_thumbnail">"Nyeste bilde"</string>
+    <string msgid="3855951632917627620" name="accessibility_second_level_indicators">"Flere innstillingskontroller"</string>
+    <string msgid="2664037763232556307" name="accessibility_shutter_button">"Lukkerknapp"</string>
+    <string msgid="6995966685498958895" name="accessibility_switch">"%1$s-bryteren"</string>
+    <string msgid="5951340774212969461" name="accessibility_switch_to_camera">"Bytt til foto"</string>
+    <string msgid="8116783308051524188" name="accessibility_switch_to_new_panorama">"Bytt til ny panoramamodus"</string>
+    <string msgid="604756878371875836" name="accessibility_switch_to_panorama">"Bytt til panorama"</string>
+    <string msgid="4991396355234561505" name="accessibility_switch_to_video">"Bytt til video"</string>
+    <string msgid="1339909363226825709" name="accessibility_zoom_control">"Zoomkontroll"</string>
+    <string msgid="1218288221200568947" name="apply_effect">"Bruk"</string>
+    <string msgid="4025244950820813059" name="aspect">"Størrelsesforhold"</string>
+    <string msgid="1159104543795779123" name="aspect1to1_effect">"1:1"</string>
+    <string msgid="7078163990979248864" name="aspect3to4_effect">"3:4"</string>
+    <string msgid="7968067847241223578" name="aspect4to3_effect">"4:3"</string>
+    <string msgid="1410129351686165654" name="aspect4to6_effect">"4:6"</string>
+    <string msgid="5122395569059384741" name="aspect5to7_effect">"5:7"</string>
+    <string msgid="5780001758108328143" name="aspect7to5_effect">"7:5"</string>
+    <string msgid="7740468012919660728" name="aspect9to16_effect">"16:9"</string>
+    <string msgid="6263330561046574134" name="aspectNone_effect">"Ingen"</string>
+    <string msgid="1663414996270538748" name="autofix">"Autokorrektur"</string>
+    <string msgid="9184270738916564608" name="bg_replacement_message">"Sett enheten ned."\n"Gå ut av syne et øyeblikk."</string>
+    <string msgid="2067345080568684614" name="borders">"Kantlinjer"</string>
+    <string msgid="8927492494576933793" name="bwfilter">"Svart/hvitt-filter"</string>
+    <string msgid="8923911090533439312" name="camera_disabled">"Kameraet har blitt deaktivert på grunn av retningslinjer for sikkerhet."</string>
+    <string msgid="6484667504938477337" name="camera_error_title">"Kamerafeil"</string>
+    <string msgid="6346560772074764302" name="camera_label">"Kamera"</string>
+    <string msgid="955440687597185163" name="cannot_connect_camera">"Kan ikke koble til kameraet."</string>
+    <string msgid="5023634941212959976" name="cannot_load_image">"Kan ikke laste inn bildet."</string>
+    <string msgid="7231052688467970897" name="capital_off">"AV"</string>
+    <string msgid="5491353494964003567" name="capital_on">"PÅ"</string>
+    <string msgid="5485339175014139481" name="clear_effects">"Fjern effekter"</string>
+    <string msgid="8140838959007796977" name="compare_original">"Sammenlign"</string>
+    <string msgid="2310908487756769019" name="contrast">"Kontrast"</string>
+    <string msgid="7598378507763334041" name="crop">"Beskjær"</string>
+    <string msgid="8794037869706891710" name="crop_tooltip">"Dra markører for å beskjære bildet"</string>
+    <string msgid="4173724489001742342" name="crossprocess">"Kryssfremkall."</string>
+    <string msgid="915010781090477550" name="curvesRGB">"Kurver"</string>
+    <string msgid="9129211507395079371" name="curves_channel_blue">"Blå"</string>
+    <string msgid="3733003466905031016" name="curves_channel_green">"Grønn"</string>
+    <string msgid="4199710104162111357" name="curves_channel_red">"Rød"</string>
+    <string msgid="7909209509638333690" name="curves_channel_rgb">"RGB"</string>
+    <string msgid="6263301364153382152" name="dialog_ok">"OK"</string>
+    <string msgid="4957723267826476079" name="disable_video_snapshot_hint">"Øyeblikksbilder er deaktivert når spesialeffekter er aktivert."</string>
+    <string msgid="2353274490633681946" name="discard_unsaved_photo">"Vil du forkaste endringer som ikke er lagret?"</string>
+    <string msgid="50396326708699797" name="documentary">"Dokumentar"</string>
+    <string msgid="3112344807927554662" name="done">"Fullført"</string>
+    <string msgid="1686409894518940990" name="doodle">"Drodle"</string>
+    <string msgid="2902117272374362915" name="doodle_tooltip">"Tegn på bildet for å drodle"</string>
+    <string msgid="8145893940788467106" name="duotone">"Tofargebilde"</string>
+    <string msgid="959158844620991906" name="effect_backdropper_gallery">"Din video"</string>
+    <string msgid="7935661090723068402" name="effect_backdropper_space">"Verdensrommet"</string>
+    <string msgid="45198943771777870" name="effect_backdropper_sunset">"Solnedgang"</string>
+    <string msgid="6579360207378171022" name="effect_background">"BAKGRUNN"</string>
+    <string msgid="3945182409691408412" name="effect_goofy_face_big_eyes">"Store øyne"</string>
+    <string msgid="7528748779754643144" name="effect_goofy_face_big_mouth">"Stor munn"</string>
+    <string msgid="5180533098740577137" name="effect_goofy_face_big_nose">"Stor nese"</string>
+    <string msgid="1070355596290331271" name="effect_goofy_face_small_eyes">"Små øyne"</string>
+    <string msgid="3848209817806932565" name="effect_goofy_face_small_mouth">"Liten munn"</string>
+    <string msgid="1207235692524289171" name="effect_goofy_face_squeeze">"Klem sammen"</string>
+    <string msgid="3601545724573307541" name="effect_none">"Ingen"</string>
+    <string msgid="8107732405347155777" name="effect_silly_faces">"MORSOMME ANSIKTER"</string>
+    <string msgid="6526397045949374905" name="exposure">"Eksponering"</string>
+    <string msgid="6205748523156172637" name="facelift">"Ansiktsglød"</string>
+    <string msgid="4412831806626044111" name="facetan">"Solbruning"</string>
+    <string msgid="2644989991700022526" name="filllight">"Utfyllingslys"</string>
+    <string msgid="4219489910543059747" name="filtershow_redo">"Gjør om"</string>
+    <string msgid="6781743189243585101" name="filtershow_undo">"Angre"</string>
+    <string msgid="6037488646928998921" name="fisheye">"Fiskeøye"</string>
+    <string msgid="2357692401826287480" name="flip">"Vend"</string>
+    <string msgid="2700943256714731737" name="flip_tooltip">"Dra bildet for å snu det"</string>
+    <string msgid="7487585304579789098" name="grain">"Kornete oppl."</string>
+    <string msgid="7641563843060945228" name="grayscale">"Svart/hvitt"</string>
+    <string msgid="2082672248771133871" name="hide_history_panel">"Skjul loggen"</string>
+    <string msgid="1135313661068111161" name="hide_imagestate_panel">"Skjul bildetilstanden"</string>
+    <string msgid="3902653944386623972" name="highlight">"Gjør lysere"</string>
+    <string msgid="455767361472692409" name="history">"Logg"</string>
+    <string msgid="6231252147971086030" name="hue">"Nyanse"</string>
+    <string msgid="3609930035023754855" name="imageState">"Nåværende bildetilstand"</string>
+    <string msgid="7890360277163832130" name="loading_failure">"Kunne ikke laste inn bildet"</string>
+    <string msgid="1270032154357186736" name="lomoish">"Lomo"</string>
+    <string msgid="6428291655769260831" name="menu_settings">"Innstillinger"</string>
+    <string msgid="5482518108154883096" name="mirror">"Speil"</string>
+    <string msgid="1985508917342811252" name="negative">"Negativt"</string>
+    <string msgid="5137703033746873624" name="no_storage" product="default">"Sett inn et SD-kort før du bruker kameraet."</string>
+    <string msgid="6633966646410296520" name="none">"Ingen"</string>
+    <string msgid="2970291701448555126" name="not_selectable_in_scene_mode">"Kan ikke velges i scenemodus."</string>
+    <string msgid="3524493791230430897" name="original">"Original"</string>
+    <string msgid="8248825828264374507" name="pano_capture_indication">"Panoramaopptak"</string>
+    <string msgid="2155692796549642116" name="pano_dialog_panorama_failed">"Kunne ikke lagre panorama."</string>
+    <string msgid="4788441554128083543" name="pano_dialog_prepare_preview">"Forbereder panorama"</string>
+    <string msgid="5755531234434437697" name="pano_dialog_title">"Panorama"</string>
+    <string msgid="7800325815031423516" name="pano_dialog_waiting_previous">"Venter på forrige panorama"</string>
+    <string msgid="2887552964129301902" name="pano_review_rendering">"Panoramaet settes sammen"</string>
+    <string msgid="2054886016665130188" name="pano_review_saving_indication_str">"Lagrer …"</string>
+    <string msgid="2823839093291374709" name="pano_too_fast_prompt">"For rask"</string>
+    <string msgid="6163006724627682202" name="photo_saved">"Det redigerte bildet ble lagret i <ns1:g id="FOLDER_NAME">%s</ns1:g>"</string>
+    <string msgid="2810641816416597464" name="photoeditor_artistic">"Kustneriske effekter"</string>
+    <string msgid="834210916165605468" name="photoeditor_color">"Fargeeffekter"</string>
+    <string msgid="560535856805042987" name="photoeditor_exposure">"Eksponeringseffekter"</string>
+    <string msgid="6441595584425037477" name="photoeditor_fix">"Forbedre"</string>
+    <string msgid="4738587346771969697" name="photoeditor_name">"Photo Studio"</string>
+    <string msgid="5999984591376273768" name="photoeditor_redo">"Gjør om"</string>
+    <string msgid="4831462549862253564" name="photoeditor_undo">"Angre"</string>
+    <string msgid="4139212359561383385" name="posterize">"Plakateffekt"</string>
+    <string msgid="460313486231965141" name="pref_camcorder_settings_category">"Videoinnstillinger"</string>
+    <string msgid="7288383434237457709" name="pref_camera_flashmode_entry_auto">"Automatisk"</string>
+    <string msgid="867242186958805761" name="pref_camera_flashmode_entry_off">"Av"</string>
+    <string msgid="5330043918845197616" name="pref_camera_flashmode_entry_on">"På"</string>
+    <string msgid="2287362477238791017" name="pref_camera_flashmode_title">"Blitzmodus"</string>
+    <string msgid="7374820710300362457" name="pref_camera_focusmode_entry_auto">"Autofokus"</string>
+    <string msgid="3413922419264967552" name="pref_camera_focusmode_entry_infinity">"Uendelig"</string>
+    <string msgid="4424489110551866161" name="pref_camera_focusmode_entry_macro">"Makro"</string>
+    <string msgid="2877248921829329127" name="pref_camera_focusmode_title">"Fokusmodus"</string>
+    <string msgid="5142699735103692485" name="pref_camera_id_entry_back">"Bakside"</string>
+    <string msgid="5668958706828733669" name="pref_camera_id_entry_front">"Forside"</string>
+    <string msgid="4040791582294635851" name="pref_camera_id_title">"Velg kamera"</string>
+    <string msgid="829109608140747258" name="pref_camera_picturesize_entry_1_3mp">"1,3 megapiksler"</string>
+    <string msgid="1669725616780375066" name="pref_camera_picturesize_entry_1mp">"1 megapiksel"</string>
+    <string msgid="1753709802245460393" name="pref_camera_picturesize_entry_2mp">"2 megapiksler"</string>
+    <string msgid="741415860337400696" name="pref_camera_picturesize_entry_3mp">"3 megapiksler"</string>
+    <string msgid="2882928212030661159" name="pref_camera_picturesize_entry_5mp">"5 megapiksler"</string>
+    <string msgid="259953780932849079" name="pref_camera_picturesize_entry_8mp">"8 megapiksler"</string>
+    <string msgid="8576186463069770133" name="pref_camera_picturesize_entry_qvga">"QVGA"</string>
+    <string msgid="806934254162981919" name="pref_camera_picturesize_entry_vga">"VGA"</string>
+    <string msgid="4333724936665883006" name="pref_camera_picturesize_title">"Bildestørrelse"</string>
+    <string msgid="371208839215448917" name="pref_camera_recordlocation_title">"Lagre sted i bilder"</string>
+    <string msgid="616748587566110484" name="pref_camera_scenemode_entry_action">"Action"</string>
+    <string msgid="7113995286836658648" name="pref_camera_scenemode_entry_auto">"Automatisk"</string>
+    <string msgid="2923388802899511784" name="pref_camera_scenemode_entry_hdr">"HDR"</string>
+    <string msgid="7606898503102476329" name="pref_camera_scenemode_entry_night">"Natt"</string>
+    <string msgid="907053529286788253" name="pref_camera_scenemode_entry_party">"Fest"</string>
+    <string msgid="181661154611507212" name="pref_camera_scenemode_entry_sunset">"Solnedgang"</string>
+    <string msgid="1420535844292504016" name="pref_camera_scenemode_title">"Velg scenemodus"</string>
+    <string msgid="2576236450859613120" name="pref_camera_settings_category">"Kamerainnstillinger"</string>
+    <string msgid="6580665476983469293" name="pref_camera_whitebalance_entry_auto">"Automatisk"</string>
+    <string msgid="3531996716997959326" name="pref_camera_whitebalance_entry_cloudy">"Overskyet"</string>
+    <string msgid="2534757270149561027" name="pref_camera_whitebalance_entry_daylight">"Dagslys"</string>
+    <string msgid="2435332872847454032" name="pref_camera_whitebalance_entry_fluorescent">"Lysstoffrør"</string>
+    <string msgid="8856667786449549938" name="pref_camera_whitebalance_entry_incandescent">"Flamme"</string>
+    <string msgid="677420930596673340" name="pref_camera_whitebalance_title">"Hvitbalanse"</string>
+    <string msgid="1229093066434614811" name="pref_exposure_title">"Eksponering"</string>
+    <string msgid="8243182968457289488" name="pref_video_effect_title">"Effekter"</string>
+    <string msgid="8664038216234805914" name="pref_video_quality_entry_high">"Høy"</string>
+    <string msgid="7258507152393173784" name="pref_video_quality_entry_low">"Lav"</string>
+    <string msgid="8245379279801096922" name="pref_video_quality_title">"Videokvalitet"</string>
+    <string msgid="1672458758823855874" name="pref_video_time_lapse_frame_interval_1000">"1 sekund"</string>
+    <string msgid="3105568489694909852" name="pref_video_time_lapse_frame_interval_10000">"10 sekunder"</string>
+    <string msgid="2766886102170605302" name="pref_video_time_lapse_frame_interval_10800000">"3 timer"</string>
+    <string msgid="6055574367392821047" name="pref_video_time_lapse_frame_interval_12000">"12 sekunder"</string>
+    <string msgid="145301938098991278" name="pref_video_time_lapse_frame_interval_120000">"2 minutter"</string>
+    <string msgid="6286246349698492186" name="pref_video_time_lapse_frame_interval_1440000">"24 minutter"</string>
+    <string msgid="7497934659667867582" name="pref_video_time_lapse_frame_interval_14400000">"4 timer"</string>
+    <string msgid="3415071702490624802" name="pref_video_time_lapse_frame_interval_1500">"1,5 sekunder"</string>
+    <string msgid="2656164845371833761" name="pref_video_time_lapse_frame_interval_15000">"15 sekunder"</string>
+    <string msgid="793707078196731912" name="pref_video_time_lapse_frame_interval_150000">"2,5 minutter"</string>
+    <string msgid="1785467676466542095" name="pref_video_time_lapse_frame_interval_180000">"3 minutter"</string>
+    <string msgid="5042628461448570758" name="pref_video_time_lapse_frame_interval_1800000">"0,5 timer"</string>
+    <string msgid="8783643014853837140" name="pref_video_time_lapse_frame_interval_18000000">"5 timer"</string>
+    <string msgid="827813989647794389" name="pref_video_time_lapse_frame_interval_2000">"2 sekunder"</string>
+    <string msgid="5005078879234015432" name="pref_video_time_lapse_frame_interval_21600000">"6 timer"</string>
+    <string msgid="2192628967233421512" name="pref_video_time_lapse_frame_interval_24000">"24 sekunder"</string>
+    <string msgid="3734507766184666356" name="pref_video_time_lapse_frame_interval_240000">"4 minutter"</string>
+    <string msgid="5750464143606788153" name="pref_video_time_lapse_frame_interval_2500">"2,5 sekunder"</string>
+    <string msgid="2664846627499751396" name="pref_video_time_lapse_frame_interval_3000">"3 sekunder"</string>
+    <string msgid="5923393773260634461" name="pref_video_time_lapse_frame_interval_30000">"0,5 minutter"</string>
+    <string msgid="7442765761995328639" name="pref_video_time_lapse_frame_interval_300000">"5 minutter"</string>
+    <string msgid="6724596937972563920" name="pref_video_time_lapse_frame_interval_360000">"6 minutter"</string>
+    <string msgid="6366071632666482636" name="pref_video_time_lapse_frame_interval_3600000">"1 time"</string>
+    <string msgid="69942198321578519" name="pref_video_time_lapse_frame_interval_36000000">"10 timer"</string>
+    <string msgid="7303255804306382651" name="pref_video_time_lapse_frame_interval_4000">"4 sekunder"</string>
+    <string msgid="285992046818504906" name="pref_video_time_lapse_frame_interval_43200000">"12 timer"</string>
+    <string msgid="2949719376111679816" name="pref_video_time_lapse_frame_interval_500">"0,5 sekunder"</string>
+    <string msgid="6800566761690741841" name="pref_video_time_lapse_frame_interval_5000">"5 sekunder"</string>
+    <string msgid="536117788694519019" name="pref_video_time_lapse_frame_interval_5400000">"1,5 timer"</string>
+    <string msgid="5740227373848829515" name="pref_video_time_lapse_frame_interval_54000000">"15 timer"</string>
+    <string msgid="8545447466540319539" name="pref_video_time_lapse_frame_interval_6000">"6 sekunder"</string>
+    <string msgid="4678581247918524850" name="pref_video_time_lapse_frame_interval_60000">"1 minutt"</string>
+    <string msgid="6563665954471001352" name="pref_video_time_lapse_frame_interval_600000">"10 minutter"</string>
+    <string msgid="8969801372893266408" name="pref_video_time_lapse_frame_interval_720000">"12 minutter"</string>
+    <string msgid="6846617415182608533" name="pref_video_time_lapse_frame_interval_7200000">"2 timer"</string>
+    <string msgid="9040201678470052298" name="pref_video_time_lapse_frame_interval_86400000">"24 timer"</string>
+    <string msgid="1187029705069674152" name="pref_video_time_lapse_frame_interval_90000">"1,5 minutter"</string>
+    <string msgid="5803172407245902896" name="pref_video_time_lapse_frame_interval_900000">"15 minutter"</string>
+    <string msgid="4242839574025261419" name="pref_video_time_lapse_frame_interval_9000000">"2,5 timer"</string>
+    <string msgid="3490489191038309496" name="pref_video_time_lapse_frame_interval_off">"Av"</string>
+    <string msgid="6245716906744079302" name="pref_video_time_lapse_frame_interval_title">"Intervallmodus (time lapse)"</string>
+    <string msgid="2914969119574812666" name="preparing_sd" product="default">"Forbereder minnekort…"</string>
+    <string msgid="4958448806369928239" name="redeye">"Røde øyne"</string>
+    <string msgid="4183695928490874014" name="redeye_tooltip">"Trykk på røde øyne for å fjerne dem"</string>
+    <string msgid="7541394381714894896" name="remember_location_no">"Nei takk"</string>
+    <string msgid="724592331305808098" name="remember_location_prompt">"Merk bildene og videoene med hvor de ble tatt."\n\n"Andre apper kan bruke denne informasjonen med de lagrede bildene dine."</string>
+    <string msgid="9060472929006917810" name="remember_location_title">"Vil du huske bildestedene?"</string>
+    <string msgid="862884269285964180" name="remember_location_yes">"Ja"</string>
+    <string msgid="9013181350779592937" name="reset">"Tilbakestill"</string>
+    <string msgid="7712605581024929564" name="reset_effect">"Tilbakestill"</string>
+    <string msgid="8188009385853399254" name="review_cancel">"Avbryt"</string>
+    <string msgid="1156261588693116433" name="review_ok">"FERDIG"</string>
+    <string msgid="6607597269792373083" name="rotate">"Rotering"</string>
+    <string msgid="7008602969130734229" name="rotate_tooltip">"Dra bildet for å rotere det"</string>
+    <string msgid="8621322012271169931" name="saturation">"Metning"</string>
+    <string msgid="5516670392524294967" name="save">"LAGRE"</string>
+    <string msgid="8229491575433743974" name="saving_failure">"Kunne ikke lagre det redigerte bildet"</string>
+    <string msgid="7978093531824705601" name="sepia">"Sepia"</string>
+    <string msgid="2970567717633813771" name="set_time_interval">"Fast tidsintervall"</string>
+    <string msgid="6665849510484821483" name="set_time_interval_help">"Funksjonen for intervallmodus er avslått. Slå den på for å angi et tidsintervall."</string>
+    <string msgid="4480039384202951946" name="setting_off">"Av"</string>
+    <string msgid="8602246224465348901" name="setting_on">"På"</string>
+    <string msgid="8235188588101973090" name="shadow">"Skygger"</string>
+    <string msgid="3928572915300287152" name="shadow_recovery">"Skygger"</string>
+    <string msgid="8449662378104403230" name="sharpen">"Gjør skarpere"</string>
+    <string msgid="6463103068318055412" name="sharpness">"Skarphet"</string>
+    <string msgid="7785810372502120090" name="show_history_panel">"Vis loggen"</string>
+    <string msgid="7132294085840948243" name="show_imagestate_panel">"Vis bildetilstanden"</string>
+    <string msgid="1732882643101247179" name="spaceIsLow_content" product="default">"Lagringsplassen på SD-kortet er snart oppbrukt. Endre kvalitetsinnstillingene, eller slett bilder eller andre filer."</string>
+    <string msgid="5217801513491493491" name="straighten">"Rett opp"</string>
+    <string msgid="4846317027139212339" name="straighten_tooltip">"Dra bildet for å rette på det"</string>
+    <string msgid="8863427645591903760" name="tap_to_focus">"Trykk for å fokusere."</string>
+    <string msgid="1607987938521534517" name="temperature">"Varme"</string>
+    <string msgid="1776453661704997476" name="time_lapse_hours">"timer"</string>
+    <string msgid="2486386210951700943" name="time_lapse_interval_set">"Ferdig"</string>
+    <string msgid="7738520349259013762" name="time_lapse_minutes">"minutter"</string>
+    <string msgid="2105521458391118041" name="time_lapse_seconds">"sekunder"</string>
+    <string msgid="4360632427760662691" name="time_lapse_title">"Tidsforkortelsesopptak"</string>
+    <string msgid="154435943863418434" name="tint">"Fargetone"</string>
+    <string msgid="2783694326474415761" name="tinyplanet">"Liten planet"</string>
+    <string msgid="2036539130684382763" name="title_activity_filter_show">"Bilderedigerer"</string>
+    <string msgid="3326744578577835915" name="vibrance">"Livlig"</string>
+    <string msgid="2899292505526427293" name="video_camera_label">"Video"</string>
+    <string msgid="6179877322015552390" name="video_reach_size_limit">"Videoen ble for stor."</string>
+    <string msgid="18833576851372483" name="video_snapshot_hint">"Trykk for å ta et bilde mens du filmer."</string>
+    <string msgid="7648125924662648282" name="vignette">"Vignettering"</string>
+    <string msgid="8600187532323801552" name="wait">"Vent litt…"</string>
+    <string msgid="6346581563387083613" name="wbalance">"Autofarger"</string>
+    <string msgid="5402582493291792293" name="yes">"Ja"</string>
+</resources>

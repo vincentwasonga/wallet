@@ -1,0 +1,133 @@
+[
+    {
+        "outputFile": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 330
+                },
+                "from": {
+                    "file": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/values-port/styles.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2542,
+                        "endLine": 54,
+                        "endColumn": 12,
+                        "endOffset": 2817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 830
+                },
+                "from": {
+                    "file": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/values-port/styles.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1603,
+                        "endLine": 40,
+                        "endColumn": 12,
+                        "endOffset": 2098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 835,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1305
+                },
+                "from": {
+                    "file": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/values-port/styles.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 745,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1310,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 1688
+                },
+                "from": {
+                    "file": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/values-port/styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1220,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 1598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1693,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 2144
+                },
+                "from": {
+                    "file": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/values-port/styles.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2822,
+                        "endLine": 62,
+                        "endColumn": 12,
+                        "endOffset": 3273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2149,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 2583
+                },
+                "from": {
+                    "file": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/values-port/styles.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2103,
+                        "endLine": 48,
+                        "endColumn": 12,
+                        "endOffset": 2537
+                    }
+                }
+            }
+        ]
+    }
+]

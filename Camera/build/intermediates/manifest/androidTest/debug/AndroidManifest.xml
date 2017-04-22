@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="wb.android.google.camera.test" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="25" />
+
+    <instrumentation
+        android:name="com.android.test.runner.MultiDexTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for wb.android.google.camera.test"
+        android:targetPackage="wb.android.google.camera.test" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="wb.android.google.camera.app.GalleryAppImpl"
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="AndroidCamera"
+        android:largeHeap="true"
+        android:theme="@style/Theme.Gallery" >
+        <uses-library android:name="android.test.runner" />
+
+        <activity android:name="wb.android.google.camera.CameraActivity" />
+    </application>
+
+</manifest>

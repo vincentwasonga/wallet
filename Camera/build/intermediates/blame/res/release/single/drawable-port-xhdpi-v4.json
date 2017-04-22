@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/release/drawable-port-xhdpi-v4/ic_zoom_big.9.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/drawable-port-xhdpi/ic_zoom_big.9.png"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/release/drawable-port-xhdpi-v4/btn_camera_shutter_holo_xlarge.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/drawable-port-xhdpi/btn_camera_shutter_holo_xlarge.png"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/release/drawable-port-xhdpi-v4/btn_video_shutter_recording_holo_xlarge.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/drawable-port-xhdpi/btn_video_shutter_recording_holo_xlarge.png"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/release/drawable-port-xhdpi-v4/btn_pan_shutter_recording_pressed_holo_xlarge.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/drawable-port-xhdpi/btn_pan_shutter_recording_pressed_holo_xlarge.png"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/release/drawable-port-xhdpi-v4/ic_zoom_big_dark.9.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/drawable-port-xhdpi/ic_zoom_big_dark.9.png"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/release/drawable-port-xhdpi-v4/btn_video_shutter_holo_xlarge.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/drawable-port-xhdpi/btn_video_shutter_holo_xlarge.png"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/release/drawable-port-xhdpi-v4/btn_pan_shutter_recording_holo_xlarge.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/drawable-port-xhdpi/btn_pan_shutter_recording_holo_xlarge.png"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/release/drawable-port-xhdpi-v4/btn_video_shutter_pressed_holo_xlarge.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/drawable-port-xhdpi/btn_video_shutter_pressed_holo_xlarge.png"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/release/drawable-port-xhdpi-v4/btn_pan_shutter_pressed_holo_xlarge.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/drawable-port-xhdpi/btn_pan_shutter_pressed_holo_xlarge.png"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/release/drawable-port-xhdpi-v4/switcher_bg.9.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/drawable-port-xhdpi/switcher_bg.9.png"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/release/drawable-port-xhdpi-v4/btn_camera_shutter_pressed_holo_xlarge.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/drawable-port-xhdpi/btn_camera_shutter_pressed_holo_xlarge.png"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/release/drawable-port-xhdpi-v4/btn_video_shutter_recording_pressed_holo_xlarge.png",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/src/main/res/drawable-port-xhdpi/btn_video_shutter_recording_pressed_holo_xlarge.png"
+    }
+]

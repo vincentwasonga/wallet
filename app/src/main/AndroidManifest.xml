@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright 2017, Peter Vincent
+  ~ Licensed under the Apache License, Version 2.0, Vin Budget.
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~ Unless required by applicable law or agreed to in writing,
+  ~ software distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.octopus.wallet">
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.SET_ALARM" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <application
+        android:name="com.octopus.wallet.App"
+        android:allowBackup="true"
+        android:icon="@drawable/budget"
+        android:label="@string/app_name"
+        android:supportsRtl="false"
+        android:theme="@style/AppTheme"
+        tools:replace="android:icon,android:label,android:name,android:theme">
+        <activity
+            android:name="com.octopus.wallet.u.a.st.SplashActivity"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.octopus.wallet.u.a.st.WelcomeActivity"
+            android:theme="@style/WelcomeTheme" />
+        <activity
+            android:name="com.octopus.wallet.u.a.st.LoginActivity"
+            android:label="@string/string_activity_login" />
+        <activity
+            android:name="com.octopus.wallet.u.a.m.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.octopus.wallet.u.a.t.TransactionActivity"
+            android:label="@string/string_activity_transaction"
+            android:theme="@style/TransactionTheme" />
+        <activity
+            android:name="com.octopus.wallet.u.a.t.DescriptionActivity"
+            android:label="Description"
+            android:theme="@style/EulaActivityTheme" />
+        <activity
+            android:name="com.octopus.wallet.u.a.t.ReceiptActivity"
+            android:label="New Receipt"
+            android:theme="@style/ReceiptTheme" />
+        <activity
+            android:name="com.octopus.wallet.u.a.t.CategoryActivity"
+            android:label="Pick a Category" />
+        <activity
+            android:name="com.octopus.wallet.u.a.t.DateTimeActivity"
+            android:theme="@style/DatePickerTheme" />
+        <activity
+            android:name="com.octopus.wallet.u.a.s.SettingsActivity"
+            android:label="@string/string_activity_settings1" />
+        <activity android:name="com.octopus.wallet.u.a.s.AccountSettingsActivity" />
+        <activity android:name="com.octopus.wallet.u.a.mo.ExportActivity" />
+        <activity android:name="com.octopus.wallet.u.a.mo.ReportsActivity" />
+        <activity
+            android:name="com.octopus.wallet.u.a.mo.NewShoppingListActivity"
+            android:label="New Shopping List" />
+        <activity
+            android:name="com.octopus.wallet.u.a.m.EulaActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/string_activity_eula"
+            android:theme="@style/EulaActivityTheme" />
+        <activity
+            android:name="com.octopus.wallet.u.a.mo.ShoppingListActivity"
+            android:label="@string/string_activity_shopping_list"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="com.octopus.wallet.u.a.m.AboutActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/string_activity_about"
+            android:theme="@style/SplashTheme" />
+        <activity
+            android:name="com.octopus.wallet.u.a.st.CurrencyActivity"
+            android:label="Currencies" />
+        <activity
+            android:name="com.octopus.wallet.u.a.m.DailyRecordsActivity"
+            android:label="DailyRecords" />
+        <activity
+            android:name="com.octopus.wallet.u.a.m.NewItemActivity"
+            android:label="@string/string_activity_new_item"
+            android:theme="@style/NewItemStyle" />
+        <activity android:name="com.octopus.wallet.u.a.m.NotificationActivity" />
+        <activity
+            android:name="com.octopus.wallet.u.a.mo.RecurringPaymentsActivity"
+            android:label="@string/title_activity_recurring_payments"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.octopus.wallet.u.a.mo.DebtsActivity"
+            android:label="@string/title_activity_debts"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.octopus.wallet.u.a.mo.NewDebtActivity"
+            android:label="New Debt" />
+        <activity android:name="com.octopus.wallet.u.a.m.RecordsActivity" />
+        <activity android:name="com.octopus.wallet.u.a.m.GraphActivity" />
+        <activity
+            android:name="com.octopus.wallet.u.a.t.CalculatorActivity"
+            android:theme="@style/EulaActivityTheme" />
+        <activity
+            android:name="com.octopus.wallet.u.a.mo.BudgetsActivity"
+            android:label="@string/title_activity_budgets"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.octopus.wallet.u.a.mo.NewRecurringPaymentActivity" />
+        <activity
+            android:name="com.octopus.wallet.u.a.t.AssistantActivity"
+            android:label="@string/title_activity_assistant"/>
+        <service
+            android:name="com.octopus.wallet.s.BService"
+            android:process=":pb_process" />
+        <receiver
+            android:name="com.octopus.wallet.r.BReceiver"
+            android:exported="true"
+            android:process=":pb_process">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <meta-value
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".u.a.st.SplashActivity" />
+        <meta-value
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <receiver android:name="com.octopus.wallet.r.BWidget">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+            <meta-value
+                android:name="android.appwidget.provider"
+                android:resource="@xml/balance_widget_info" />
+        </receiver>
+    </application>
+</manifest>

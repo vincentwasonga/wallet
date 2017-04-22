@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/androidTest/debug/raw/focus_complete.ogg",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/bundles/debug/res/raw/focus_complete.ogg"
+    },
+    {
+        "merged": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/res/merged/androidTest/debug/raw/video_record.ogg",
+        "source": "/home/yoctopus/AndroidStudioProjects/PersonalBudget/Camera/build/intermediates/bundles/debug/res/raw/video_record.ogg"
+    }
+]
